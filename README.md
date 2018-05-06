@@ -1,1 +1,2 @@
-# phd
+# Colin Madland
+### Doctoral Student - University of Victoria
