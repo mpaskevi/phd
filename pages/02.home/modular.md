@@ -1,7 +1,7 @@
 ---
 title: Home
 media_order: rawpixel-315198-unsplash.jpg
-body_classes: 'title-center title-h1h2'
+body_classes: 'header-image fullwidth'
 hide_hypothesis: false
 ---
 
