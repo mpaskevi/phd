@@ -1,11 +1,10 @@
 ---
 title: Blog
-hide_git_sync_repo_link: false
-sitemap:
-    changefreq: monthly
+media_order: 'blog-header.jpg,florian-klauer-253-unsplash.jpg'
 body_classes: 'header-image fullwidth'
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     limit: 5
     order:
         by: date
@@ -16,6 +15,9 @@ display_post_summary:
     enabled: false
 post_icon: calendar-o
 continue_link_as_button: false
+hide_git_sync_repo_link: false
+sitemap:
+    changefreq: monthly
 modular_content:
     items: '@self.modular'
     order:
