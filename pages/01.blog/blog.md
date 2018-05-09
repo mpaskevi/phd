@@ -1,6 +1,6 @@
 ---
 title: Blog
-media_order: florian-klauer-253-unsplash.jpg
+media_order: rawpixel-315198-unsplash.jpg
 body_classes: 'header-image fullwidth'
 content:
     items:
