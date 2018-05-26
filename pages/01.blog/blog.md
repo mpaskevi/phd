@@ -1,7 +1,7 @@
 ---
 title: Blog
-media_order: rawpixel-315198-unsplash.jpg
-body_classes: 'header-image fullwidth'
+media_order: benjamin-voros-333663-unsplash.jpg
+body_classes: 'header-image fullwidth header-transparent header-dark'
 content:
     items:
         - '@self.children'
