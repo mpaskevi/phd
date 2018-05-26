@@ -25,10 +25,10 @@ modular_content:
         dir: desc
 blog_url: blog
 feed:
-    description: 'Sample Blog Description'
+    description: 'Colin Madland'
     limit: 10
 pagination: true
 ---
 
 # Colin Madland
-### PhD Student at University of Victoria
+## PhD Student at University of Victoria
