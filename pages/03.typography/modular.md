@@ -1,5 +1,8 @@
 ---
 title: Typography
+content:
+    items: '@self.modular'
+published: false
 ---
 
 ! Details on the full capabiltiies of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
