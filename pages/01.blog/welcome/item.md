@@ -1,5 +1,6 @@
 ---
 title: Welcome
+media_order: josh-nuttall-271928-unsplash.jpg
 date: '00:12 27-05-2018'
 taxonomy:
     category:
@@ -18,4 +19,4 @@ I'll be using this site to narrate my thinking.
 The front end of this site is arranged and displayed in [Grav](https://getgrav.org) using [Paul Hibbitts' Open Publishing Space Grav Skeleton](http://demo.hibbittsdesign.org/grav-open-publishing-quark/). Paul provides a boatload of sample pages, so you might see some stray stuff from Paul or a demo for a while, but I'll get it cleaned up in time.
 
 ### GitHub
-The backend content lives in [GitHub](https://github.com/cmadland/phd), where, if you're interested, you can have a look at the structure of it all.
+The backend content lives in [GitHub](https://github.com/cmadland/phd), where, if you're interested, you can have a look at the structure of it all. You can also see a link to GitHub in the menu on the top of this page.
