@@ -1,6 +1,6 @@
 ---
 title: 'Read Me'
-published: true
+published: false
 ---
 
 ## It's as easy as 1-2-3 to publish, share and collaboratively edit your Grav site content!
