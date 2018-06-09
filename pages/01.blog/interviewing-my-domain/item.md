@@ -57,4 +57,4 @@ In order to succeed and persist, new domain owners will need an active community
 
 I hope that this has been helpful! Happy to chat with anyone about my experience.
 
-Photo by [Simon Rae](https://unsplash.com/photos/kB_KKcp8uTw) on Unsplash
+###### Header Photo by [Simon Rae](https://unsplash.com/photos/kB_KKcp8uTw) on Unsplash
