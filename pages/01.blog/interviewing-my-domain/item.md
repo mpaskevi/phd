@@ -2,6 +2,9 @@
 title: 'Interviewing my Domain'
 media_order: simon-rae-254529-unsplash.jpg
 date: '22:01 09-06-2018'
+taxonomy:
+    tag:
+        - whydomain
 ---
 
 Yesterday, [@cogdog](https://twitter.com/cogdog) blogged a [request](http://cogdogblog.com/2018/06/interviewing-your-domain/) on behalf of [#OntarioExtend](https://extend-domains.ecampusontario.ca/) asking for those who own their own domains to write a short blog post about their experiences. Here we go...
@@ -53,3 +56,5 @@ I appreciate the freedom and flexibility of having control over my domain. I hav
 In order to succeed and persist, new domain owners will need an active community around them that is willing to be open and generous with their experience and their difficulties.
 
 I hope that this has been helpful! Happy to chat with anyone about my experience.
+
+Photo by [Simon Rae](https://unsplash.com/photos/kB_KKcp8uTw) on Unsplash
