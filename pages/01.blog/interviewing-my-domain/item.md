@@ -22,9 +22,9 @@ Prior to registering merelearning.ca, I had very little experience with domains 
 
 #### Q3. What was a compelling feature, reason, motivation for you to get and use a domain? When you started what did you think you would put there?
 
-My introduction to owning my domain started when [Brian Lamb](https://twitter.com/brlamb) started working at [TRU Open Learning](https://truopen.ca) in 2011(?), and just started doing his thing. Then when [Jim Groom](https://twitter.com/jimgroom) and [Tim Owens](https://twitter.com/timmmmyboy) launched [Reclaim Hosting](https://reclaimhosting.com) and offered hosting packages for dirt cheap, I jumped on board.
+My introduction to owning my domain started when [Brian Lamb](https://twitter.com/brlamb) started working at [TRU Open Learning](http://truopen.ca) in 2011(?), and just started doing his thing. Then when [Jim Groom](https://twitter.com/jimgroom) and [Tim Owens](https://twitter.com/timmmmyboy) launched [Reclaim Hosting](https://reclaimhosting.com) and offered hosting packages for dirt cheap, I jumped on board.
 
-Things really got interesting for me when Alan did a 4-month gig at TRU and with Brian ran the [YouShow](httos://youshow.trubox.ca). It was there that I really dug into WordPress and created a portfolio at merelearning.ca.
+Things really got interesting for me when Alan did a 4-month gig at TRU and with Brian ran the [YouShow](https://youshow.trubox.ca). It was there that I really dug into WordPress and created a portfolio at merelearning.ca.
 
 #### Q4. What kinds of sites have you set up one your domain since then? How are you using them? Please share URLs!
 
