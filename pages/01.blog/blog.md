@@ -1,7 +1,12 @@
 ---
 title: Blog
 media_order: benjamin-voros-333663-unsplash.jpg
+hide_git_sync_repo_link: false
 body_classes: 'header-image fullwidth header-transparent header-dark'
+blog_url: blog
+show_sidebar: false
+show_breadcrumbs: true
+show_pagination: true
 content:
     items:
         - '@self.children'
@@ -11,11 +16,11 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
+bricklayer_layout: true
 display_post_summary:
     enabled: false
 post_icon: calendar-o
 continue_link_as_button: false
-hide_git_sync_repo_link: false
 sitemap:
     changefreq: monthly
 modular_content:
@@ -23,7 +28,6 @@ modular_content:
     order:
         by: folder
         dir: desc
-blog_url: blog
 feed:
     description: 'Colin Madland'
     limit: 10
