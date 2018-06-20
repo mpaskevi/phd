@@ -5,6 +5,14 @@ date: '00:12 27-05-2018'
 taxonomy:
     category:
         - personal
+hide_git_sync_repo_link: false
+hero_classes: 'text-light overlay-dark'
+hero_image: josh-nuttall-271928-unsplash.jpg
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
 ---
 
 # Welcome!
