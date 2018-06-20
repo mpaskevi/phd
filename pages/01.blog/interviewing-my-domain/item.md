@@ -5,6 +5,14 @@ date: '22:01 09-06-2018'
 taxonomy:
     tag:
         - whydomain
+hide_git_sync_repo_link: false
+blog_url: /blog
+show_sidebar: false
+show_breadcrumbs: true
+show_pagination: true
+header_image: '1'
+header_image_file: simon-rae-254529-unsplash.jpg
+hide_from_post_list: false
 ---
 
 Yesterday, [@cogdog](https://twitter.com/cogdog) blogged a [request](http://cogdogblog.com/2018/06/interviewing-your-domain/) on behalf of [#OntarioExtend](https://extend-domains.ecampusontario.ca/) asking for those who own their own domains to write a short blog post about their experiences. Here we go...
