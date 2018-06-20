@@ -5,7 +5,7 @@ hide_git_sync_repo_link: false
 body_classes: 'header-image fullwidth header-transparent header-dark'
 blog_url: blog
 show_sidebar: false
-show_breadcrumbs: true
+show_breadcrumbs: false
 show_pagination: true
 content:
     items:
