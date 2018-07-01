@@ -1,7 +1,7 @@
 ---
 title: 'Learning is Hard'
 media_order: DeathtoStock_IntotheLight-10.jpg
-date: '14:12 01-07-2018'
+date: '11:12 01-07-2018'
 taxonomy:
     tag:
         - learning
