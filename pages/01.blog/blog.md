@@ -3,7 +3,7 @@ title: Blog
 media_order: benjamin-voros-333663-unsplash.jpg
 hide_git_sync_repo_link: false
 body_classes: 'header-image fullwidth header-transparent header-dark'
-blog_url: blog
+blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
 show_pagination: true
