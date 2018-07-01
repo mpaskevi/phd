@@ -6,6 +6,7 @@ taxonomy:
     tag:
         - learning
 hide_git_sync_repo_link: false
+visible: true
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: DeathtoStock_IntotheLight-10.jpg
 blog_url: /blog
