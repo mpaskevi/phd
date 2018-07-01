@@ -59,6 +59,6 @@ But all in all, it does go to show that we can be blind to our biases, we can be
 
 But I didn't need to take their discomfort and response as an affront to me as a person. They were experiencing cognitive dissonance, which is necessary in order to learn, but is also difficult. I believe that what I had to say is important and that the participants in the colloquium likely hadn't encountered resistance to using Turnitin before. After all, it's the kind of SaaS that makes life easier for faculty and promotes academic integrity at the same time. That should be a no-brainer, right?
 
-Unfortunately, there are too many technologies in education that really are pushed as 'no-brainers'. But [Audrey Watters'](https://hackeducation.com) career has been dedicated to warning us that the 'no-brainers' have all been done before, and the results are far less than encouraging. Apparently, learning that lesson is hard.
+Unfortunately, there are too many technologies in education that really are pushed as 'no-brainers'. [Audrey Watters'](https://hackeducation.com) career has been dedicated to warning us that the 'no-brainers' have all been done before, and the results are far less than encouraging. Apparently, learning that lesson is hard.
 
 ###### Photo Credit [Death to the Stock Photo](https://deathtothestockphoto.com)
