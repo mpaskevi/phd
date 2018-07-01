@@ -6,6 +6,7 @@ taxonomy:
     category:
         - personal
 hide_git_sync_repo_link: false
+visible: true
 hero_classes: 'text-light overlay-dark'
 hero_image: josh-nuttall-271928-unsplash.jpg
 blog_url: /blog
