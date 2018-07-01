@@ -9,7 +9,7 @@ hide_git_sync_repo_link: false
 visible: true
 hero_classes: 'overlay-dark text-light hero-fullscreen'
 hero_image: DeathtoStock_IntotheLight-10.jpg
-blog_url: /blog
+blog_url: blog
 show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
