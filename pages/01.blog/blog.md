@@ -16,7 +16,7 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-bricklayer_layout: false
+bricklayer_layout: true
 display_post_summary:
     enabled: false
 post_icon: calendar-o
