@@ -6,7 +6,6 @@ taxonomy:
     tag:
         - whydomain
 hide_git_sync_repo_link: false
-visible: true
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: simon-rae-254529-unsplash.jpg
 blog_url: /blog
