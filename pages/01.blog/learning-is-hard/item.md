@@ -1,7 +1,7 @@
 ---
 title: 'Learning is Hard old'
 media_order: DeathtoStock_IntotheLight-10.jpg
-published: true
+published: false
 date: '11:12 01-07-2018'
 taxonomy:
     tag:
