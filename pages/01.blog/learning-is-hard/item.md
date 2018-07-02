@@ -1,5 +1,5 @@
 ---
-title: 'Learning is Hard'
+title: 'Learning is Hard old'
 media_order: DeathtoStock_IntotheLight-10.jpg
 published: true
 date: '11:12 01-07-2018'
