@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - learning
 hide_git_sync_repo_link: false
-hero_classes: 'text-light parallax overlay-dark hero-fullscreen'
+hero_classes: 'text-light overlay-dark hero-fullscreen'
 hero_image: david-clode-722735-unsplash.jpg
 header_image_credit: 'Photo by David Clode on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/Qd5A9W42L18'
