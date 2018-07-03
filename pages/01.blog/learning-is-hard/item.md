@@ -6,7 +6,7 @@ taxonomy:
     tag:
         - learning
 hide_git_sync_repo_link: false
-hero_classes: 'text-light parallax overlay-dark hero-fullscreen'
+hero_classes: 'text-light parallax overlay-dark'
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
