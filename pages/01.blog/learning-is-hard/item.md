@@ -1,5 +1,6 @@
 ---
 title: 'Learning is hard'
+media_order: david-clode-722735-unsplash.jpg
 date: '17:37 02-07-2018'
 taxonomy:
     tag:
