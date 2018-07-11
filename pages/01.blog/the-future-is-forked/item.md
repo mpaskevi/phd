@@ -20,6 +20,7 @@ hide_from_post_list: false
 It's been a while since David Wiley first talked about the reusability paradox which basically posits that the more detailed and localized a particular resource is, the harder it will be for others to use it. And the more a particular resource is designed to be shared, the less useful it will be.
 
 ===
+
 The paradox was particularly potent when repositories were filled with copyrighted materials that couldn't be edited. Wiley's solution to the reusability paradox is creative commons licensing which allows every potential user to revise the materials and use them in their own context.
 
 Now, as more people are applying CC licenses to their work, there is a growing awareness that CC materials can be copied, revised, and reused in local contexts. Unfortunately, these materials are too often shared in formats that are next to impossible to revise.
