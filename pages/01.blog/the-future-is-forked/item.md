@@ -1,6 +1,6 @@
 ---
 title: 'The Future is Forked'
-media_order: shane-aldendorff-503944-unsplash.jpg
+published: true
 date: '17:37 07-07-2018'
 taxonomy:
     tag:
@@ -15,10 +15,10 @@ show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
-published: true 
 ---
 
 It's been a while since David Wiley first talked about the reusability paradox which basically posits that the more detailed and localized a particular resource is, the harder it will be for others to use it. And the more a particular resource is designed to be shared, the less useful it will be.
+
 ===
 The paradox was particularly potent when repositories were filled with copyrighted materials that couldn't be edited. Wiley's solution to the reusability paradox is creative commons licensing which allows every potential user to revise the materials and use them in their own context.
 
