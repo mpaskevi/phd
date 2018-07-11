@@ -15,7 +15,7 @@ show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
-published: false
+published: true 
 ---
 
 It's been a while since David Wiley first talked about the reusability paradox which basically posits that the more detailed and localized a particular resource is, the harder it will be for others to use it. And the more a particular resource is designed to be shared, the less useful it will be.
