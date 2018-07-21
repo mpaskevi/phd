@@ -7,6 +7,49 @@ taxonomy:
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image:
 ---
+I learned from [Bonni](http://teachinginhighered.com/2018/07/13/top-tools-2018/) the other day that Jane Hart compiles a list of top tech tools for learning each year. Apparently one of the things to do is to write a blog post about your individual take. Here goes...
 
-http://teachinginhighered.com/2018/07/13/top-tools-2018/
 ===
+
+I'm actually rather hesitant to offer a list, as it is too easy to take these lists out of context and assume that they are based in anything other than personal preference and unacknowledged bias, but I figure it might be a good exercise *for me* to think through why I use the tools that I do, why they work for me, and maybe offer some ideas for other people to try.
+
+Just remember that this list is not in any way authoritative.
+
+I'll also say ahead of time that it's too easy to get caught up in technological solutionism and presume that any perticular tool or set of tools is going to revolutionize education writ large, or even an individual teacher's practice. The best things in education happen when we empower, trust, celebrate, believe, protect, and dignify students and their busy, complicated lives. The more you can do in your classroom to humanize the learning experience, the less you will need to rely on techno-wizardry and clickyclickyblingbling to make your classes engaging.
+
+So, that was a lot of ado...here we go, in no particular order.
+
+>>> [GitHub.com](https://github.com)
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+Github is a web service that uses Git technology to allow for collaboration, change tracking, and version control on projects and files. While it is typically used in software development teams, the fact that you can use the very simple Markdown syntax to style text files, makes it a great tool for creating and editing text documents. The reason Github is here as an educational tool is that it makes transparent the process of  cooperative learning, in particular the [5 characteristics of CL](http://www.co-operation.org/what-is-cooperative-learning), positive interdependence, personal and group accountability, promotive interaction, interpersonal and group skills, and group processing.
+
+>>> [scholar.social](https://scholar.social)
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+Scholar.social is an open source instance of Mastodon, a private, distributed alternative to Twitter. If you like the community of Twitter but are drained by the crap, hop into a Mastodon server somewhere, or spin one of your own!
+
+>>> [feedly.com](https://feedly.com)
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+Feedly, which is an RSS reader, is a tool you can use to take control over your online consumption. Inoreader is another, but I haven't used that one much. If you don't like having your information chosen and delivered to you by an algorithm created by an obscenely wealthy white dude in Silicon Valley, then you can curate your own stream of education-related feeds so that you are reading what *you* want or need for your career.
+
+Also, if you run a connected course with students blogging, you **need** feedly to maintain your sanity.
+
+>>> wordpress
+
+>>> canva
+>>> hypothesis
+>>> grav
+>>> zotero
+>>> SPLOTs
+>>> gitpitch
