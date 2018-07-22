@@ -1,11 +1,10 @@
 ---
 title: 'My Top Ten Tech Tools'
-date: '22:01 09-06-2018'
 taxonomy:
     tag:
         - topten
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: todd-quackenbush-701-unsplash.jpg
 ---
 I learned from [Bonni](http://teachinginhighered.com/2018/07/13/top-tools-2018/) the other day that Jane Hart compiles a list of top tech tools for learning each year. Apparently one of the things to do is to write a blog post about your individual take. Here goes...
 
@@ -47,9 +46,53 @@ Also, if you run a connected course with students blogging, you **need** feedly 
 
 >>> wordpress
 
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+WordPress is  a workhorse for a wide variety of digital learning needs, from promoting student ownership and agency in your courses, to maintaining your own professional portfolio, to building your PLN. WordPress has you covered.
+
 >>> canva
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+The reason I use canva is to help me with my lack of graphic design capacity. It's free, super easy to use, and lets you create high quality graphics and well-designed documents for classroom use. Also great for students to use!
+
 >>> hypothesis
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+Conversations with your students and peers on the web, where the content is. The digital implementation of marginalia.
+
 >>> grav
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+For tech-savvy educators and learners who want a git-synced site, like this one! A little more difficult to use and learn than WordPress, but did I say that it syncronizes with your git repo with ease?
+
 >>> zotero
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+Don't write a paper without some sort of citation manager! Import citations from journals or the web, insert in-text citations in dozens of styles, and automatically generate your reference list.
+
 >>> SPLOTs
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
+
+[Simplest Possible Learning Online Tools](https://splot.ca) (or something like that). No login, privacy-enhanced web tools based on WordPress created by [Alan Levine](https://twitter.com/cogdog) and [Brian Lamb](https://twitter.com/brlamb).
 >>> gitpitch
+
+- [x] education
+- [x] personal or professional
+- [x] workplace
