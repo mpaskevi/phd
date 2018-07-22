@@ -18,7 +18,7 @@ I'll also say ahead of time that it's too easy to get caught up in technological
 
 So, that was a lot of ado...here we go, in no particular order.
 
->>> [GitHub.com](https://github.com)
+>>>> [GitHub.com](https://github.com)
 
 - [x] education
 - [x] personal or professional
