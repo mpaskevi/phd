@@ -18,7 +18,7 @@ I'll also say ahead of time that it's too easy to get caught up in technological
 
 So, that was a lot of ado...here we go, in no particular order.
 
-!!!! #### [GitHub.com](https://github.com)
+!!!! ##### [GitHub.com](https://github.com)
 
 - [x] education
 - [x] personal or professional
@@ -26,7 +26,7 @@ So, that was a lot of ado...here we go, in no particular order.
 
 Github is a web service that uses Git technology to allow for collaboration, change tracking, and version control on projects and files. While it is typically used in software development teams, the fact that you can use the very simple Markdown syntax to style text files, makes it a great tool for creating and editing text documents. The reason Github is here as an educational tool is that it makes transparent the process of  cooperative learning, in particular the [5 characteristics of CL](http://www.co-operation.org/what-is-cooperative-learning), positive interdependence, personal and group accountability, promotive interaction, interpersonal and group skills, and group processing.
 
->>> [scholar.social](https://scholar.social)
+!!!! ##### [scholar.social](https://scholar.social)
 
 - [x] education
 - [x] personal or professional
@@ -34,7 +34,7 @@ Github is a web service that uses Git technology to allow for collaboration, cha
 
 Scholar.social is an open source instance of Mastodon, a private, distributed alternative to Twitter. If you like the community of Twitter but are drained by the crap, hop into a Mastodon server somewhere, or spin one of your own!
 
->>> [feedly.com](https://feedly.com)
+!!!! ##### [feedly.com](https://feedly.com)
 
 - [x] education
 - [x] personal or professional
@@ -44,7 +44,7 @@ Feedly, which is an RSS reader, is a tool you can use to take control over your 
 
 Also, if you run a connected course with students blogging, you **need** feedly to maintain your sanity.
 
->>> wordpress
+!!!! ##### [Wordpress](https://wordpress.org)
 
 - [x] education
 - [x] personal or professional
@@ -52,7 +52,7 @@ Also, if you run a connected course with students blogging, you **need** feedly 
 
 WordPress is  a workhorse for a wide variety of digital learning needs, from promoting student ownership and agency in your courses, to maintaining your own professional portfolio, to building your PLN. WordPress has you covered.
 
->>> canva
+!!!! ##### [Canva](https://canva.com)
 
 - [x] education
 - [x] personal or professional
@@ -60,7 +60,7 @@ WordPress is  a workhorse for a wide variety of digital learning needs, from pro
 
 The reason I use canva is to help me with my lack of graphic design capacity. It's free, super easy to use, and lets you create high quality graphics and well-designed documents for classroom use. Also great for students to use!
 
->>> hypothesis
+!!!! ##### [hypothes.is](https://hypothes.is)
 
 - [x] education
 - [x] personal or professional
@@ -68,7 +68,7 @@ The reason I use canva is to help me with my lack of graphic design capacity. It
 
 Conversations with your students and peers on the web, where the content is. The digital implementation of marginalia.
 
->>> grav
+!!!! ##### [Grav](https://getgrav.org)
 
 - [x] education
 - [x] personal or professional
@@ -76,7 +76,7 @@ Conversations with your students and peers on the web, where the content is. The
 
 For tech-savvy educators and learners who want a git-synced site, like this one! A little more difficult to use and learn than WordPress, but did I say that it syncronizes with your git repo with ease?
 
->>> zotero
+!!!! ##### [Zotero](https://zotero.org)
 
 - [x] education
 - [x] personal or professional
@@ -84,15 +84,18 @@ For tech-savvy educators and learners who want a git-synced site, like this one!
 
 Don't write a paper without some sort of citation manager! Import citations from journals or the web, insert in-text citations in dozens of styles, and automatically generate your reference list.
 
->>> SPLOTs
+!!!! ##### [SPLOTs](https://splot.ca)
 
 - [x] education
 - [x] personal or professional
 - [x] workplace
 
 [Simplest Possible Learning Online Tools](https://splot.ca) (or something like that). No login, privacy-enhanced web tools based on WordPress created by [Alan Levine](https://twitter.com/cogdog) and [Brian Lamb](https://twitter.com/brlamb).
->>> gitpitch
+
+!!!! ##### [Gitpitch](https://gitpitch.com)
 
 - [x] education
 - [x] personal or professional
 - [x] workplace
+
+Gitpitch is another git-enabled tool that allows you to present directly from your git repo. You can compose your presentation using simple Markdown syntax, choose a theme (and switch it mid-stream if you want) and offer your slides for 5R activities.
