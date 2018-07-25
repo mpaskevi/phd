@@ -37,3 +37,5 @@ pagination: true
 
 # Colin Madland
 ## PhD Student at University of Victoria
+
+*Ideas published here should be considered half-baked, at best.
