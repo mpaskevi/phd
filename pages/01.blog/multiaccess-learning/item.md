@@ -1,7 +1,7 @@
 ---
 title: 'Multi-Access Learning'
 published: true
-date: '16:12 12-06-2018'
+date: '16:12 24-07-2018'
 hide_git_sync_repo_link: false
 hero_image: katherine-chase-180320-unsplash.jpg
 header_image_credit: 'Photo by Katherine Chase on Unsplash'
