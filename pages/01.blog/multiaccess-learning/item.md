@@ -5,6 +5,7 @@ date: '16:12 12-06-2018'
 ---
 
 One of the significant drivers for many in the open education field is that of increasing access to higher education, often through reducing costs for course materials. Another approach is to scaffold multiple points of access to higher education through what Irvine, Code, and Richards [2013](http://jolt.merlot.org/vol9no2/irvine_0613.htm) call multi-access learning.
+
 ===
 
 Their model contains four tiers or ways that students may choose to access learning environments.
