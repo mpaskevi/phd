@@ -3,9 +3,18 @@ title: 'My Top Ten Tech Tools'
 taxonomy:
     tag:
         - topten
+hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: todd-quackenbush-701-unsplash.jpg
+header_image_credit: 'Todd Quackenbush on Unsplash'
+header_image_creditlink: 'https://unsplash.com/photos/IClZBVw5W5A'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
 ---
+
 I learned from [Bonni](http://teachinginhighered.com/2018/07/13/top-tools-2018/) the other day that Jane Hart compiles a list of top tech tools for learning each year. Apparently one of the things to do is to write a blog post about your individual take. Here goes...
 
 ===
