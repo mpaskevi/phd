@@ -8,7 +8,7 @@ hero_image: katherine-chase-180320-unsplash.jpg
 header_image_credit: 'Photo by Katherine Chase on Unsplash'
 header_image_creditlink: 'https://unsplash.com/photos/5b8GDkLc_tE'
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
