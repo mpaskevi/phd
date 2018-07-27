@@ -1,7 +1,7 @@
 ---
 title: 'We Make the Road by Walking'
 media_order: sharosh-rajasekher-383453-unsplash.jpg
-published: false
+published: true
 date: '03:53 27-07-2018'
 hide_git_sync_repo_link: false
 hero_classes: 'text-light overlay-dark-gradient hero-fullscreen'
