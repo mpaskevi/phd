@@ -35,7 +35,7 @@ feed:
 pagination: true
 ---
 
-# Colin Madland
+## Colin Madland, MEd
 #### educator | technologist | phd student
 
 *Ideas published here should be considered half-baked, at best.
