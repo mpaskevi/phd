@@ -1,2 +1,2 @@
 # Colin Madland
-### Doctoral Student - University of Victoria
+#### educator | technologist | phd student
