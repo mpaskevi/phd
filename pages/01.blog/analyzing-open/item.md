@@ -15,7 +15,7 @@ hide_from_post_list: false
 
 Well, 'meeting' #1 of my PhD journey is done! As this is a seminar course focussed more on empowerment and conversation, our prof likes to call our weekly get-togethers 'meetings'. Ok.
 
-As is standard in the first introduction to a course, there was significant one-way conversation about the course outline and where we would be headed and such things....
+As is standard in the first introduction to a course, there was the typical conversation about the course outline and where we would be headed and such things....
 
 ===
 
@@ -61,7 +61,7 @@ This is a difficult question for me to answer without outside assistance. I just
 #### Accidental Features
 - open licenses
 - free materials
-- 
+-
 
 
 ###### Header Photo by Photo by [Ian Keefe](https://unsplash.com/photos/gVhyeqWK8UI) on Unsplash
