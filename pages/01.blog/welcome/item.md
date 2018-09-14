@@ -15,7 +15,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-# Welcome!
+#### Welcome!
 
 I'm a PhD student in educational technology at the University of Victoria on the beautiful southern tip of Vancouver Island in British Colulmbia. By day, I'm the Manager of Online Learning and Instructional Technology at Trinity Western University in Langley, BC.
 
