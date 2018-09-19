@@ -19,6 +19,7 @@ Well, 'meeting' #1 of my PhD journey is done! As this is a seminar course focuss
 As is standard in the first introduction to a course, there was the typical conversation about the course outline and where we would be headed and such things....
 
 ===
+
 [Click here](https://github.com/cmadland/phd/commits/master/pages/01.blog/analyzing-open/item.md) to view the history of this post in GitHub.
 
 One of the key points of the meeting was the nature of a concept, and the concept we used as a first example was  'culture'. So in our little groups, we were tasked with analyzing the concept of culture.
