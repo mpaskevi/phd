@@ -37,5 +37,6 @@ pagination: true
 
 ## Colin Madland, MEd
 #### educator | technologist | phd student
+### University of Victoria
 
 *Ideas published here should be considered half-baked, at best.
