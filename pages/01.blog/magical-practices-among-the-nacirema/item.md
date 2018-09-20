@@ -7,6 +7,7 @@ taxonomy:
     category:
         - edci614
 hide_git_sync_repo_link: false
+hero_image: james-kresser-726070-unsplash.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
