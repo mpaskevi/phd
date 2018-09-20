@@ -1,7 +1,6 @@
 ---
 title: 'Magical practices among the Nacirema'
 media_order: james-kresser-726070-unsplash.jpg
-published: false
 date: '04:34 20-09-2018'
 taxonomy:
     category:
