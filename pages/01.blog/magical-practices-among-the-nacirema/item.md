@@ -1,5 +1,6 @@
 ---
 title: 'Magical practices among the Nacirema'
+published: false
 date: '04:34 20-09-2018'
 hide_git_sync_repo_link: false
 blog_url: /blog
