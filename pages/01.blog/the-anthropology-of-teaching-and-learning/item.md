@@ -1,6 +1,11 @@
 ---
 title: 'The Anthropology of Teaching and Learning '
 date: '02:25 21-09-2018'
+taxonomy:
+    category:
+        - edci614
+    tag:
+        - learning
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: jon-tyson-518763-unsplash.jpg
