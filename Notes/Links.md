@@ -6,3 +6,6 @@ University-prison partnership brings hope to incarcerated learners. (n.d.). Retr
 
 ### Calvin College
 - Lauren J.
+
+Podcast episode from 'Seeing White'
+http://podcast.cdsporch.org/episode-32-how-race-was-made-seeing-white-part-2/
