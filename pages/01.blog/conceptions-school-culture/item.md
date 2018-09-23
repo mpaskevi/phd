@@ -7,7 +7,7 @@ taxonomy:
         - open
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: ross-sneddon-798471-unsplash.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
