@@ -1,4 +1,4 @@
-From: Graham McDonough gpmcd@uvic.ca
+From: Graham
 Subject: RE: EDCI 614 - Course Outline and Contact List
 Date: September 14, 2018 at 11:01 AM
 To: Colin Madland
@@ -14,9 +14,9 @@ See you Monday, G
 
 
 
-From: Colin Madland <colin@madland.ca>
+From: Colin Madland
 Sent: September 12, 2018 7:09 PM
-To: Graham McDonough <gpmcd@uvic.ca>
+To: Gra
 Subject: Re: EDCI 614 - Course Outline and Contact List
 Thank you Graham!
 
@@ -27,10 +27,12 @@ This brings up two questions in my mind:
 1. Is this appropriate in your mind with respect to academic integrity, knowing that these posts would be open to my colleagues?
 2. Am I on the right track with the assignment?
 Thanks very much! Colin
-On Sep 11, 2018, at 2:07 PM, <gpmcd@uvic.ca> <gpmcd@uvic.ca> wrote: Hi Everyone:
+
+
+On Sep 11, 2018, at 2:07 PM,  wrote: Hi Everyone:
 It was good to meet you yesterday, and I am looking forward to working with you this term.
 As promised, I have attached an electronic copy of our course outline.
-Finally, Gillian Saunders has offered to coordinate a student-led class email contact list. for communication among yourselves. If you wish to be on this list (it is optional), please contact her at: gillianteacher@gmail.com.
+Finally, Gillian Saunders has offered to coordinate a student-led class email contact list. for communication among yourselves. If you wish to be on this list (it is optional), please contact her at:
 See you Monday!
 Best, Graham
 <EDCI_514_&_614_Fall_2018.pdf>
