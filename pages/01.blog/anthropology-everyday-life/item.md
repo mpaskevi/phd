@@ -1,6 +1,6 @@
 ---
 title: 'Anthropology of Everyday Life'
-published: false
+published: true
 taxonomy:
     category:
         - edci614
