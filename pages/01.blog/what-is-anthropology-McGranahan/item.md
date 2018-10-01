@@ -1,6 +1,6 @@
 ---
 title: 'What is Anthropology'
-published: false
+published: true
 taxonomy:
     category:
         - edci614
@@ -42,4 +42,4 @@ Squatting doesn't only take you out of your typical perspective on the world, it
 > Ethnographic knowledge is charged in that it is produced out of real-life encounters between people, most often in the context of meaningful differences between these people.  Ethnographic research can be troubled and it requires care and commitment, humility and cooperation, vulnerability and trust, but it is one of the most poignant ways of knowing another and thus, knowing the self. In terms of the teaching I do, I believe in its transformative possibilities.
 
 
-###### Photo by [Lin Po-Tsen](https://unsplash.com/photos/X9W93AL6WfM) on Unsplash
+###### Photo by
