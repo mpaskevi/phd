@@ -1,6 +1,6 @@
 ---
 title: 'LGBTQ youth activism and school'
-published: false
+published: true
 taxonomy:
     category:
         - edci614
