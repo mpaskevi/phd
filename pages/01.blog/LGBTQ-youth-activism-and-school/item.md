@@ -11,7 +11,7 @@ taxonomy:
         - school
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: sharon-mccutcheon-663578-unsplash.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
@@ -31,4 +31,4 @@ Desiring and advocating for acceptance and inclusion sometimes harms people who 
 
 Another challenge noted in the article is that both authors identify as cis-gendered heterosexuals, leading to issues of trust with the group of LGBTQ youth that needed to be overcome and acknowledged.
 
-###### Photo by
+###### Photo by [Sharon McCutcheon](https://unsplash.com/photos/bBkTn4ZMsUw) on Unsplash
