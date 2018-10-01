@@ -10,7 +10,7 @@ taxonomy:
         - Anthropology
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image: lin-po-tsen-1081392-unsplash.jpg
+hero_image: 
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
