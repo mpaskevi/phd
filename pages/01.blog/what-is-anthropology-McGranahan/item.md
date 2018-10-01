@@ -6,8 +6,8 @@ taxonomy:
         - edci614
     tag:
         - open
-        - Anthropology
         - ethnography
+        - Anthropology
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: lin-po-tsen-1081392-unsplash.jpg
@@ -22,7 +22,6 @@ hide_from_post_list: false
 
 
 The primary focus of this paper is a discussion of what seems to be a controversy about how and when to teach ethnography to under-graduates. As such, it's a little peripheral to my needs right now, but there are some very interesting examples of ways to get students thinking ethnographically that I found compelling.
-
 
 ===
 
