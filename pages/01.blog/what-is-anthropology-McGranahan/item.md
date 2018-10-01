@@ -10,7 +10,7 @@ taxonomy:
         - ethnography
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: lin-po-tsen-1081392-unsplash.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
