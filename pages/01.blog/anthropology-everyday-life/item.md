@@ -18,10 +18,8 @@ hide_from_post_list: false
 
 !!! Ling, M. 1999. The Anthropology of Everyday Life: Teaching about Culture in Schools. In R. Case & P. Clark (Eds.), *The Canadian Anthology of Social Studies: Issues and Strategies for Teachers,* pp. 51-58. Vancouver, BC: Pacific Educational Press.
 
-
-
-
 ===
+
 > One of the most important conclusions of contemporary anthropology is that any cultural expression should always be considered in the context in which it is expressed. Which is to say, we need to be sensitive to
 the situation in which cultural values and beliefs are expressed instead of simply passing judgement on these
 expressions. p.53
