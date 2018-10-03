@@ -44,24 +44,16 @@ OER are learning materials that are released under open licenses such as public 
 
 ### Multi-Access Learning Environments
 
-Multi-access learning environments are those where students have flexibility and choice in how they engage in the course activities and meetings. `state **explicitly** how this contributes to openness` Irvine, Code, and Richards (2013) describe four concentric spheres to represent four levels or tiers of access.
+Multi-access learning environments are those where students have flexibility and choice in how they engage in the course activities and meetings. `state explicitly how this contributes to openness` Irvine, Code, and Richards (2013) describe four concentric spheres to represent four levels or tiers of access.
 
 1. Tier 1, the core sphere, is the traditional face-to-face classroom experience where students travel to a university campus  at significant expense and meet in a classroom or lab to engage in various learning activities with a group of other students who have done the same thing.
 2. In tier 2, students do not need to travel to campus in order to participate in the learning experiences. Instead, they connect to the room via web conferencing tools while the rest of the students are gathered for their meeting. In this way, the barrier of distance is eliminated.
 3. Tier 3 eliminates the geographical barrier and reduces the temporal barrier by allowing students to access recordings of the live classroom experience from their preferred location and at a time more convenient for them.
-4. Tier 4 is **open** learning, where learners are empowered to participate in learning activities on their own time, in their own preferred location, and for whatever reason they want, often without expectation of receiving credit.
-
-```
-Consider: Are not all 3 tiers 'kinds' or even degrees of open learning (tier 4)?
-```
+4. Tier 4 is **open** learning, where learners are empowered to participate in learning activities on their own time, in their own preferred location, and for whatever reason they want, often without expectation of receiving credit. `Consider: Are not all 3 tiers 'kinds' or even degrees of open learning (tier 4)?`
 
 ## Non-Examples
 
-In order to refine our conceptual model of open education, we might consider phenomena which may initially appear to be within the definition of open education, but upon closer examination, are not.
-
-```
-Consider: is stages 1-3 are not **open** as stage 4 is, do they count as non-examples?
-```
+In order to refine our conceptual model of open education, we might consider phenomena which may initially appear to be within the definition of open education, but upon closer examination, are not. `Consider: if stages 1-3 are not open as stage 4 is, do they count as non-examples?`
 
 ### Inclusive Access
 
@@ -79,10 +71,7 @@ Essential features of a concept are those features which, if absent, would rende
 
 Accidental features of open education **include the use of materials that are free of charge.** `This looks good -- possibly present as **common** but not always used` For example, open textbooks from the BCcampus Open Textbook Repository are available for free in digital formats, but they are also available in printed format for a modest fee. Also, open education may or may not be digitally mediated through networked technologies. Even though open education is often digitally mediated, openness can be practiced off-line as well. `example?`
 
-## Models of Open Education
-```
-Consider deleting here: examining features of each takes too much detail.
-```
+## Models of Open Education `Consider deleting here: examining features of each takes too much detail.`
 
 There are many examples of open education in British Columbia and Canada. Thompson Rivers University Open Learning is an institution which has committed to lowering barriers to access through policy and the practice of using OER in their course designs when possible. Additionally, BCcampus has been entrusted to create, curate and support the BCcampus Open Textbook Repository. Kwantlen Polytechnic University has lowered barriers by introducing Canada"s first two "Zed-Cred" programs which are credentials that can be completed for zero required textbook costs.
 
