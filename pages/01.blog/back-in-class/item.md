@@ -21,7 +21,9 @@ Tonight marks the fourth meeting of our class exploring discourses in education 
 
 ===
 
-It's that expense that has me interested right now. Moving a family with kids to another continent is massively disruptive (I've done it...). 
+It's that expense that has me interested right now. Moving a family with kids to another continent is massively disruptive (I've done it...). Learning new cultures, cities, schools, homes, and lives costs an enormous amount of energy and effort.
+
+My own experience represents just a bit of the disruption required of attending school. My wife and I both have full-time careers in the Vancouver area, two of our kids are in school in the area, one in elementary school and the other in 2nd year uni. Moving is disruptive and expensive, so we looked for PhD programs within commuting distance for me. UBC and SFU are both local, but the program that I really wanted was at UVic, which is not far geographically, but separated from my home by the Salish Sea
 
 
 ###### Photo by [Sharon McCutcheon](https://unsplash.com/photos/bBkTn4ZMsUw) on Unsplash
