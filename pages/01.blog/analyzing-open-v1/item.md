@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing Open v1.0'
+title: 'Analyzing Open v1.1'
 taxonomy:
     tag:
         - open
@@ -15,6 +15,8 @@ hide_from_post_list: false
 ---
 
 This is the version of my concept analysis which I submitted for assessment.
+
+REV1: Added instructor feedback `in red`
 
 ===
 
