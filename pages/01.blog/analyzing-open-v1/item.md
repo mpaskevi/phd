@@ -24,15 +24,15 @@ This is the version of my concept analysis which I submitted for assessment.
 
 There is not one single concept that could be considered the definitive definition of "open education". The word  "open" is used in a wide variety of contexts to mean very different things. Examples include the idea of an "open door" indicating that a physical object is in a particular position that allows entry into a building or room; or an "open door policy" used to indicate that a person welcomes conversations with others; or "open for business", indicating that a particular business is currently welcoming customers.
 
-Similarly, "education" is a very broad concept encompassing myriad different formal and informal contexts, philosophies, and cultures. For the purposes of this discussion, Holmberg"s concise definition of education as "the acquisition of intellectual learning matter and cognitive skills"  (1995, p. 47) will suffice. This analysis specifically excludes discussion of most of these contexts in favour of the more specific idea of "open education".
+Similarly, "education" is a very broad concept encompassing myriad different formal and informal contexts, philosophies, and cultures. For the purposes of this discussion, Holmberg"s concise definition of education as "the acquisition of **intellectual learning matter and cognitive skills**" `notably excludes psychomotor and affective domains`  (1995, p. 47) will suffice. `Explain why?` This analysis specifically excludes discussion of most of these contexts in favour of the more specific idea of "open education".
 
 ## Definitions
 
-Open education as a concept is relatively new compared to other educational concepts, and consequently, there are few formal definitions (Bayne, Knox, & Ross, 2015). Common to many definitions found in scholarly literature are the ideas that open education is a system of beliefs that lead to a set of practices, or pedagogies, and that those pedagogies are often dependent upon the use of open education resources (OER) (Wiley, 2017). Open education is seen as a way to increase access to educational opportunities to those who might otherwise be excluded from participation ("About The Open Education Consortium | The Open Education Consortium," n.d.; "Open Education," n.d.). Many definitions also include the idea that open education in practice ought to lead to improved learning outcomes for students (Cronin & MacLaren, 2018).
+Open education as a concept is relatively new compared to other educational concepts, and consequently, there are few formal definitions (Bayne, Knox, & Ross, 2015). Common to many definitions found in scholarly literature are the ideas that open education is a system of beliefs that lead to a set of practices, or pedagogies, and that those pedagogies are often dependent upon the use of open education resources (OER) (Wiley, 2017). Open education is seen as a way to increase access to educational opportunities to those **who might otherwise be excluded from participation** `due to? examples? This notion of inclusion is important.` ("About The Open Education Consortium | The Open Education Consortium," n.d.; "Open Education," n.d.). Many definitions also include the idea that open education in practice ought to lead to improved learning outcomes for students (Cronin & MacLaren, 2018).
 
 ## Etymology
 
-The word open has roots in Old English, meaning "not shut, confined, or covered" (Hoad, 2003) and later, in the 14th century, "manifestly, publicly" and then in the 20th century, "public knowledge", or an "open competition" ("open | Origin and meaning of open by Online Etymology Dictionary," n.d.). This brief history of the word open shows its utility in describing a philosophy of education that is committed to not only the public sharing of knowledge, but also to increasing access to learning environments that might have otherwise been inaccessible.
+The word *open* has roots in Old English, meaning "not shut, confined, or covered" (Hoad, 2003) and later, in the 14th century, "manifestly, publicly" and then in the 20th century, "public knowledge", or an "open competition" ("open | Origin and meaning of open by Online Etymology Dictionary," n.d.). This brief history of the word open shows its utility in describing a philosophy of education that is committed to not only the public sharing of knowledge, but also to increasing access to learning environments that **might have otherwise been inaccessible.** `examples?`
 
 ## Examples
 
@@ -40,38 +40,49 @@ Two examples of open education are the use of  OER  and providing multiple avenu
 
 ### Open Education Resources
 
-OER are learning materials that are released under open licenses such as public domain or Creative Commons which allow users to use the materials for free (Hewlett, n.d.) and also enable users to retain, reuse, redistribute, remix, and revise (5Rs) the materials for their own use (Wiley, n.d.). While this reduction in costs (for students) represents a lowered barrier to accessing higher education, it also represents opportunity for teachers and institutions to implement practices which are directed towards increasing social justice for marginalized populations of students (Jhangiani & Jhangiani, 2017).
+OER are learning materials that are released under open licenses such as public domain or Creative Commons which allow users to use the materials ***for free*** `Consider: is this 'accessible to all' condition necessary? Could 'open ed' also apply to tuition paying students studying remotely?` (Hewlett, n.d.) and also enable users to retain, reuse, redistribute, remix, and revise (5Rs) the materials for their own use (Wiley, n.d.). While this reduction in costs (for students) represents a **lowered barrier** `but not necessarily removed?` to accessing higher education, it also represents opportunity for teachers and institutions to implement practices which are directed towards increasing social justice for marginalized populations of students `and potential students?` (Jhangiani & Jhangiani, 2017).
 
 ### Multi-Access Learning Environments
 
-Multi-access learning environments are those where students have flexibility and choice in how they engage in the course activities and meetings. Irvine, Code, and Richards (2013) describe four concentric spheres to represent four levels or tiers of access.
+Multi-access learning environments are those where students have flexibility and choice in how they engage in the course activities and meetings. `state **explicitly** how this contributes to openness` Irvine, Code, and Richards (2013) describe four concentric spheres to represent four levels or tiers of access.
 
 1. Tier 1, the core sphere, is the traditional face-to-face classroom experience where students travel to a university campus  at significant expense and meet in a classroom or lab to engage in various learning activities with a group of other students who have done the same thing.
 2. In tier 2, students do not need to travel to campus in order to participate in the learning experiences. Instead, they connect to the room via web conferencing tools while the rest of the students are gathered for their meeting. In this way, the barrier of distance is eliminated.
 3. Tier 3 eliminates the geographical barrier and reduces the temporal barrier by allowing students to access recordings of the live classroom experience from their preferred location and at a time more convenient for them.
-4. Tier 4 is open learning, where learners are empowered to participate in learning activities on their own time, in their own preferred location, and for whatever reason they want, often without expectation of receiving credit.
+4. Tier 4 is **open** learning, where learners are empowered to participate in learning activities on their own time, in their own preferred location, and for whatever reason they want, often without expectation of receiving credit.
+
+```
+Consider: Are not all 3 tiers 'kinds' or even degrees of open learning (tier 4)?
+```
 
 ## Non-Examples
 
 In order to refine our conceptual model of open education, we might consider phenomena which may initially appear to be within the definition of open education, but upon closer examination, are not.
 
+```
+Consider: is stages 1-3 are not **open** as stage 4 is, do they count as non-examples?
+```
+
 ### Inclusive Access
 
-One such phenomenon is so-called "inclusive access" deals between publishers and bookstores. These agreements are often touted as open education because they may lower one barrier, such as cost, but which erect other barriers, such as rental books that are only accessible for the duration of one semester.
+One such phenomenon is so-called "inclusive access" deals between publishers and bookstores. These agreements are often touted as open education because they may lower one barrier, such as cost, but which erect other barriers, such as rental books that are only accessible for the duration of one semester. `Is this limited openness?`
 
 ### Openness which Excludes
 
-The fact that many OER and open educational practices are dependent upon digital and networked tools means that some people will be excluded from participation. Sometimes, people will be excluded because they cannot afford to purchase the hardware required to connect to digital tools. Other people might be excluded because it would be physically unsafe for them to participate as themselves in the open. Some people, like tenured faculty, have much more freedom to share openly than others, like contingent faculty or others who may be precariously employed.
+The fact that many OER and open educational practices are dependent upon digital and networked tools means that some people will be excluded from participation. Sometimes, people will be excluded because they cannot afford to purchase the hardware required to connect to digital tools. Other people might be excluded because it would be physically unsafe for them to participate as themselves in the open. **Some people, like tenured faculty, have much more freedom to share openly than others, like contingent faculty or others who may be precariously employed.** `provide examples?`
 
-## Essential Features
+## Essential Features `Place this on p1 or p2 then use to adjudicate non-examples.`
 
 Essential features of a concept are those features which, if absent, would render a phenomenon a non-example of that concept. There is disagreement in the field about what are the essential features of open education. David Wiley argues that the term open education has been used so broadly and in so many contexts that it is almost meaningless. Instead, he offers the term OER- enabled pedagogy with the essential feature being that a particular pedagogy would be impossible without the ability of the students or faculty to be able to engage in the 5R rights (Wiley, 2017)
 
 ## Accidental Features
 
-Accidental features of open education include the use of materials that are free of charge. For example, open textbooks from the BCcampus Open Textbook Repository are available for free in digital formats, but they are also available in printed format for a modest fee. Also, open education may or may not be digitally mediated through networked technologies. Even though open education is often digitally mediated, openness can be practiced off-line as well.
+Accidental features of open education **include the use of materials that are free of charge.** `This looks good -- possibly present as **common** but not always used` For example, open textbooks from the BCcampus Open Textbook Repository are available for free in digital formats, but they are also available in printed format for a modest fee. Also, open education may or may not be digitally mediated through networked technologies. Even though open education is often digitally mediated, openness can be practiced off-line as well. `example?`
 
 ## Models of Open Education
+```
+Consider deleting here: examining features of each takes too much detail.
+```
 
 There are many examples of open education in British Columbia and Canada. Thompson Rivers University Open Learning is an institution which has committed to lowering barriers to access through policy and the practice of using OER in their course designs when possible. Additionally, BCcampus has been entrusted to create, curate and support the BCcampus Open Textbook Repository. Kwantlen Polytechnic University has lowered barriers by introducing Canada"s first two "Zed-Cred" programs which are credentials that can be completed for zero required textbook costs.
 
@@ -105,5 +116,12 @@ Wiley, D. (ND). Defining the "open" in open content. Retrieved September 23, 201
 
 Wiley, D. (2017, May 2). OER-Enabled Pedagogy. Retrieved September 24, 2018, from https://opencontent.org/blog/archives/5009
 
+```
+Excellent work here. Notice that as currently expressed this draft leaves some important questions open.
+
+Current grade = A-
+
+When revising, answer those questions and re-organize the work as needed. You should see an immediate strengthening of it.
+```
 
 ###### Header Photo by Photo by [Ian Keefe](https://unsplash.com/photos/gVhyeqWK8UI) on Unsplash

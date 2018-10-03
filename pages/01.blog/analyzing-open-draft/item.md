@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing Open'
+title: 'Analyzing Open - Draft'
 taxonomy:
     tag:
         - open
@@ -13,10 +13,10 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
-
 Well, 'meeting' #1 of my PhD journey is done! As this is a seminar course focussed more on empowerment and conversation, our prof likes to call our weekly get-togethers 'meetings'. Ok.
 
 As is standard in the first introduction to a course, there was the typical conversation about the course outline and where we would be headed and such things....
+
 
 ===
 
