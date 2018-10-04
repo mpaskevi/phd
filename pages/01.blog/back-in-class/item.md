@@ -1,5 +1,6 @@
 ---
 title: 'Back in Class'
+media_order: IMG_2726.JPG
 published: false
 taxonomy:
     category:
@@ -17,6 +18,7 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
+
 Tonight marks the fourth meeting of our class exploring discourses in education at UVic. We are a fairly small class or 14 new PhD and 3 MEd students who meet for 3 hours per week. We are a diverse group with people from Tanzania, Nigeria, Brazil, Mexico, Australia, Barbados, Canada, and other countries I can't recall. Many of the group have moved themselves and their families from far-off places to study in Victoria, and at least one is still unsure about being able to secure a study visa. It's an expensive prospect.
 
 ===
