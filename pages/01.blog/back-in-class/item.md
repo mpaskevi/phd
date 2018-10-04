@@ -1,7 +1,7 @@
 ---
 title: 'Back in Class'
 media_order: IMG_2726.JPG
-published: false
+published: true
 taxonomy:
     category:
         - edci614
