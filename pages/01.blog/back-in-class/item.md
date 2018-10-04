@@ -45,6 +45,3 @@ For me, a mid-career professional with a family, it seems that online interactio
 * Then the rest of the week is spent alone.
 
 So, if doctoral-level seminar classes are to be primarily about listening, then great! We're right on track. If instead, they should be about exchanging and testing ideas, wouldn't it be better to move the majority of that to an asynchronous environment of some sort where participants have far more time to consider and refine their responses *and* don't have to travel in order to participate?
-
-
-###### Photo by [Sharon McCutcheon](https://unsplash.com/photos/bBkTn4ZMsUw) on Unsplash
