@@ -16,10 +16,11 @@ hide_from_post_list: false
 
 This is the version of my concept analysis which I submitted for assessment.
 
-Rev1: Added instructor feedback `in red`.
-Rev2: Addressed  instructor feedback `in red`.
+* Rev1: Added instructor feedback `in red`.
+* Rev2: Addressed  instructor feedback `in red`.
 
 ===
+
 [Click here for the history of this document.](https://github.com/cmadland/phd/commits/master/pages/01.blog/analyzing-open-v1)
 
 
