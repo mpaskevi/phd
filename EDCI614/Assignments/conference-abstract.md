@@ -1,10 +1,12 @@
 ### Assignment:
-`Conference Abstract—20%
+```
+Conference Abstract—20%
 Write a 200 word (maximum) double-spaced description of an imagined presentation you wish to make that identifies a philosophical or theoretical problem, articulates a purpose or thesis statement, and from that point describes how you will respond to the problem.
 
 Abstract writing is by its nature a very precise craft that requires close attention to word choice and the ability to express summaries of complex ideas in a concise format that an educated but non-expert audience can understand. Hence, while this assignment is small in quantity it is high in its technical requirements. I recommend going through 8-10 drafts before reaching the final product and scheduling space in between each revision so that it can be seen “fresh” each time; hence it is unlikely that this assignment cannot be completed at the last minute or even within one day and receive a high grade.
 
-NOTE: You have permission to use an editor for stylistic purposes on this assignment (see item #3 in our Department’s Policy on Students’ Use of an Editor, below). My expectation is that this editor will be either one of your graduate student peers or else someone who can provide an educated non-specialist’s response to your work who will contribute a “fresh perspective” that will prompt you to enhance the quality of your work. The best job a stylistic editor can do is to identify areas that need work, and then challenge you (in the most efficient way and most precise question) to make the necessary changes. Please avoid any editorial service that takes on the job of answering those challenges and questions, and hence creating the work for you. You may freely use an editor so long as the encounter enables you to write a high-quality abstract in your own words!`
+NOTE: You have permission to use an editor for stylistic purposes on this assignment (see item #3 in our Department’s Policy on Students’ Use of an Editor, below). My expectation is that this editor will be either one of your graduate student peers or else someone who can provide an educated non-specialist’s response to your work who will contribute a “fresh perspective” that will prompt you to enhance the quality of your work. The best job a stylistic editor can do is to identify areas that need work, and then challenge you (in the most efficient way and most precise question) to make the necessary changes. Please avoid any editorial service that takes on the job of answering those challenges and questions, and hence creating the work for you. You may freely use an editor so long as the encounter enables you to write a high-quality abstract in your own words!
+```
 
 ### Mapping Openness in Education
 
