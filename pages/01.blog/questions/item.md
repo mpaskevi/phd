@@ -1,5 +1,5 @@
 ---
-title: 'Questions'
+title: Questions
 media_order: IMG_2726.JPG
 published: false
 taxonomy:
@@ -8,7 +8,6 @@ taxonomy:
         - question
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
 header_image_credit: 'Photo Credit: Colin Madland'
 blog_url: /blog
 show_sidebar: true
@@ -16,6 +15,7 @@ show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
+
 By this time next year, I need to have zeroed in on a research agenda for this PhD.
 
 Here are my thoughts as of now...
