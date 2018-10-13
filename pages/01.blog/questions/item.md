@@ -30,7 +30,9 @@ When I think about the most pressing issues, in my mind at least, in Canadian hi
 2. The geographical barriers to participation in higher ed in Canada.
 3. The cost of textbooks.
 3. The recommendations of the [Truth and Reconciliation Commission](www.trc.ca):
+
 !!! We call upon the federal government to develop with Aboriginal groups a joint strategy to eliminate educational and employment gaps between Aboriginal and non-Aboriginal Canadians.
+
 !!! We call upon the federal government to provide adequate funding to end the backlog of First Nations students seeking a post-secondary education.
-4. Changes in age demographics and the accompanying decline in enrolments.
-5. The increasing polarization of Canadians along political lines driven by digital media.
+5. Changes in age demographics and the accompanying decline in enrolments.
+6. The increasing polarization of Canadians along political lines driven by digital media.
