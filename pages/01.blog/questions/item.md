@@ -1,7 +1,7 @@
 ---
 title: Questions
 media_order: IMG_2726.JPG
-published: false
+published: true
 taxonomy:
     category:
         - research
