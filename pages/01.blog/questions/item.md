@@ -8,6 +8,7 @@ taxonomy:
         - question
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
+hero_image: shroudedmountain.jpg
 header_image_credit: 'Photo Credit: Colin Madland'
 blog_url: /blog
 show_sidebar: true
