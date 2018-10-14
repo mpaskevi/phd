@@ -6,6 +6,9 @@ taxonomy:
     category:
         - research
         - question
+    tag:
+        - research
+        - questions
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: shroudedmountain.jpg
