@@ -20,7 +20,7 @@ hide_from_post_list: false
 
 ===
 
-!!! [Click here to view the history of this post in GitHub.](https://github.com/cmadland/phd/commits/master/pages/01.blog/analyzing-open/item.md)
+!!! [Click here to view the history of this post in GitHub.](https://github.com/cmadland/phd/commits/master/EDCI614/Assignments/conference-abstract.md)
 
 ### Mapping Openness in Education
 
