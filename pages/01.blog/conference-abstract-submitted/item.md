@@ -29,7 +29,7 @@ hide_from_post_list: false
 
 The term *open education* and related terms have come to mean a wide variety of things depending on the context. To some, it reflects commitments to social justice and access in higher education (Funes & Mackness, 2018); to others, it is about using openly licensed materials to reduce student costs (Wiley, 2017); and still others see it as a set of pedagogies that utilize open education resources to improve learning outcomes (DeRosa & Jhangiani, 2018; Paskevicius, 2017). The lack of consistent definitions has the potential to lead to reduced clarity and precision in research in the field. This review attempts to map the primary definitions of open education in the literature in order to provide clarity and suggest a common foundation of terminology. Rather than seeking a single definitive description, I will argue there is a multi-dimensional spectrum of beliefs, artifacts, and practices which compose the field of open education. This diversity grows out of the roots of open education as a multi-disciplinary endeavour initiated and developed by faculty and administrators who share a common set of values about improving access to high-quality learning environments in higher education.
 
-#### References
+# References
 
 DeRosa, R., & Jhangiani, R. (2018, March 16). Open Pedagogy. Retrieved October 15, 2018, from http://openpedagogy.org/open-pedagogy/
 
