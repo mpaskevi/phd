@@ -3,6 +3,7 @@ title: 'Analyzing Open - Draft'
 taxonomy:
     tag:
         - open
+        - Assignment
         - edci614
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
