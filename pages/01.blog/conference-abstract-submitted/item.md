@@ -2,19 +2,22 @@
 title: 'Conference Abstract'
 taxonomy:
     tag:
-        - Abstract
-        - Assignment
         - open
         - edci614
+        - Abstract
+        - Assignment
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: IMG_5310.JPG
+header_image_alt_text: 'Fiery Fall Foliage'
+header_image_credit: 'Colin Madland'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
+
 > Conference Abstract—20%
 > Write a 200 word (maximum) double-spaced description of an imagined presentation you wish to make that identifies a philosophical or theoretical problem, articulates a purpose or thesis statement, and from that point describes how you will respond to the problem.
 
