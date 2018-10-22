@@ -15,11 +15,9 @@ The term *open education* and related terms have come to mean a wide variety of 
 - https://www.slideshare.net/viv_rolfe/opened16-conference-presentation/11
 - https://www.educationnext.org/theopenclassroom/
 
-Audrey Watters (hackeducation.com, n.d.) often reminds her readers that we ignore the history of educational technology at our own peril. Her point is that the historical foundations of ideas and artifacts are important in interrogating modern trends. I argue that the same is true when thinking about *open education*. Lack of clarity or precision about what is meant by open education leads to difficulty for researchers and educators.
+Audrey Watters (hackeducation.com, n.d.) often reminds her readers that we ignore the history of educational technology at our own peril. Her point is that the historical foundations of ideas and artifacts are important in interrogating modern trends. I argue that the same is true when thinking about *open education*. Lack of clarity or precision about what is meant by open education leads to difficulty for researchers and educators, and we might be well-served to explore the history of the concept.
 
-Part of the difficulty is that there is a diverse, world-wide community working under the auspices of *open education* leading to localized solutions to localized problems and a balkanizing effect.
-
-Educators who have surveyed the literature on the history of open education (Hendricks, 2017; Morgan, 2016) have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004) or more specifically "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005, *trans.*). Morgan notes that there are distinct similarities between what Paquette advocated as far back as 1979 and that to which open educators currently aspire, namely: student choice and autonomy, connectedness, access, and student voice to name a few.
+Educators who have surveyed the literature on the history of open education (Hendricks, 2017; Morgan, 2016) have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004) or more specifically "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005, *trans.*). Morgan notes that there are distinct similarities between what Paquette advocated as far back as 1979 and that to which open educators currently aspire, such as: student choice and autonomy, connectedness, access, and student voice to name a few.
 
 
 
@@ -28,11 +26,15 @@ Educators who have surveyed the literature on the history of open education (Hen
 - Social justice
 - OER
 - OER-enabled pedagogies
+- open education as freedom
+  - from surveillance
+  - to contribute, share, exercise agency, access
 
 ### Points of Confusion
  - student-centred pedagogies
  - open licenses
  - inclusion that excludes
 
+ Part of the difficulty is that there is a diverse, world-wide community working under the auspices of *open education* leading to localized solutions to localized problems and a balkanizing effect.
 
 ### Moving Forward
