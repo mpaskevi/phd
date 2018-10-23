@@ -1,14 +1,14 @@
 ---
 title: 'Keeping Track'
 media_order: IMG_5308.JPG
-published: false
+published: true
 taxonomy:
     category:
         - edci614
         - online
     tag:
         - open
-        - school
+        - Grav
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: IMG_5308.JPG
