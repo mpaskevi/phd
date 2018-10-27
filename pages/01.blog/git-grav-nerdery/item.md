@@ -2,10 +2,16 @@
 title: 'Git, Grav, and and a Little Nerdery'
 taxonomy:
     tag:
-        - Git
         - Grav
+        - Git
+hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
+hero_image: grav-logo.png
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
 ---
 
 Sometimes, things happen in ways that are nothing short of serendipitous. Yesterday was a good example.
