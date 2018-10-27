@@ -110,6 +110,8 @@ So, I decided to test this little theory. I set up two grav sites and connected 
 
 ![](hard-no.png)
 
-*SIGH* [Hey Paul!](https://twitter.com/hibbittsdesign) Do you have any ideas?
+*SIGH*
+
+[Hey Paul!](https://twitter.com/hibbittsdesign) Do you have any ideas?
 
 ...
