@@ -114,4 +114,43 @@ So, I decided to test this little theory. I set up two grav sites and connected 
 
 [Hey Paul!](https://twitter.com/hibbittsdesign) Do you have any ideas?
 
+Oh, hey [Colin](https://twitter.com/colinmadland), thanks for inviting me to contribute to your Blog!
+
+#### Git Sync and Branches
+
+While Colin's idea of using Git Branches for different localized versions of the same course looked feasible (actually, super cool) in terms of Grav and Git Sync 2.0, it was uncharted territory for me - a great opportunity to learn!
+
+After doing a quick test with my [Grav Open Course Hub](https://github.com/hibbitts-design/grav-skeleton-course-hub) project it became clear that using Branches with Git Sync might require some extra configuration - fortunately I have connections with the main developer of the Git Sync Plugin ([Djamil Legato](https://github.com/w00fz) of [Trilby Media](https://trilby.media/)) so I checked-in with him about what would be required to get something going.
+
+I discovered that while support for Branches is there, to get it configured currently requires a few lines of scripting - nothing too daunting or anything - but some additional needed steps nonetheless. Based on what I learned, I made a little step-by-step recipe to share with Colin and anyone else in the Grav community interested in using Branches with Git Sync 2.0:
+
+1. Create a GitHub repository
+2. Make initial commit to GitHub repository
+3. Create Branch BRANCHNAME
+4. Install and run Git Sync Plugin Wizard on your Grav site (do not create Webhook)
+5. Use Git Sync Plugin config screen to enter local/remote branch info
+6. Save (you will see error message)
+7. Go to Command Line Prompt (i.e. Terminal) and navigate to the `user` folder of site
+8. Enter `git fetch --all && git checkout BRANCHNAME`
+9. Enter `git branch` to confirm the correct branch is selected
+10. Enter `git pull`
+11. View your Grav site
+12. Double-check everything by doing a manual Git Sync of your Grav site
+13. If using the Grav Open Course Hub project, go to theme settings and enter the GitHub URL for branch BRANCHNAME up to, but not including, '/pages' (e.g. `https://github.com/paulhibbitts/test-grav-skeleton-open-matter-course-hub-site/tree/mybranch`)
+14. View the site and tap on **Git Repository Link** to confirm you are viewing the expected Branch
+
+Remember, Colin did include the word 'Nerdy' in the title for this Blog Post!
+
+So, based on the above recipe here is a resulting test Open Course Hub site:
+
+![Grav Open Course Hub Branch](grav-open-course-hub-branch)
+
+And its matching auto-synced GitHub repository Branch:
+
+![Grav Open Course Hub Repo Branch](grav-open-course-hub-repo-branch.png)
+
+This is yet one more example of how flexible and powerful the combination of the modern file-based Grav CMS is with a Git-based Web service (i.e. GitHub) and Markdown content.
+
+Back over to you [@Colin](https://twitter.com/colinmadland), and thanks again for the blog contribution invite!
+
 ...
