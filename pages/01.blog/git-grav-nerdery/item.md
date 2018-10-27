@@ -32,6 +32,7 @@ This is a very simple document of 40 words. There are four styles of text:
 # Heading 1
 ## Heading 2
 * list bullet
+
 [Hyperlink](www.onenote.com)
 
 Then I opened the file with Unarchiver on my Mac to have a look at the contents of the file (which is actually a folder full of files, as below).
@@ -44,7 +45,7 @@ I then opened that <document.xml> file to have a look at how the document is sty
 
 If you look carefully, you can find the actual content in there.
 
-Next, I converted the file from Werd to markdown using [this handy little app](http://word-to-markdown.herokuapp.com/).Here is the exact same document styled in Markdown.
+Next, I converted the file from Werd to markdown using [this handy little app](http://word-to-markdown.herokuapp.com/). Here is the exact same document styled in Markdown.
 
 ---
 
@@ -104,3 +105,5 @@ So, I decided to test this little theory. I set up two grav sites and connected 
 ![](hard-no.png)
 
 *SIGH* [Hey Paul!](https://twitter.com/hibbittsdesign) Do you have any ideas?
+
+...
