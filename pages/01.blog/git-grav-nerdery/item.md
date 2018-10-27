@@ -143,7 +143,7 @@ Remember, Colin did include the word 'Nerdy' in the title for this Blog Post!
 
 So, based on the above recipe here is a resulting test Open Course Hub site:
 
-![Grav Open Course Hub Branch](grav-open-course-hub-branch)
+![Grav Open Course Hub Branch](grav-open-course-hub-branch.png)
 
 And its matching auto-synced GitHub repository Branch:
 
