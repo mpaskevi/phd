@@ -139,7 +139,7 @@ I discovered that while support for Branches is there, to get it configured curr
 13. If using the Grav Open Course Hub project, go to theme settings and enter the GitHub URL for branch BRANCHNAME up to, but not including, '/pages' (e.g. `https://github.com/paulhibbitts/test-grav-skeleton-open-matter-course-hub-site/tree/mybranch`)
 14. View the site and tap on **Git Repository Link** to confirm you are viewing the expected Branch
 
-Remember, Colin did include the word 'Nerdy' in the title for this Blog Post!
+Remember, Colin did include the word 'Nerdery' in the title for this Blog Post!
 
 So, based on the above recipe here is a resulting test Open Course Hub site:
 
