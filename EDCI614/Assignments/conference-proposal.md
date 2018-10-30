@@ -22,7 +22,7 @@ Educators who have surveyed the literature on the history of open education (Hen
 
 
 ### Modern Conceptions
-- Open Education practices (Cronin & MacLaren, 2018, Paskevicious, 2017)
+- Open Education practices (Cronin & MacLaren, 2018, Paskevicius, 2017)
 - Social justice
 - OER
 - OER-enabled pedagogies
@@ -38,3 +38,5 @@ Educators who have surveyed the literature on the history of open education (Hen
  Part of the difficulty is that there is a diverse, world-wide community working under the auspices of *open education* leading to localized solutions to localized problems and a balkanizing effect.
 
 ### Moving Forward
+- invitation to contribute to a learning community
+- *personalization, connectedness, openness (in terms of OER, etc.), assessment (for learning), and access (multi-access) (Irvine, unpublished)*
