@@ -1,20 +1,24 @@
 ---
-title: 'Efficiency'
+title: Efficiency
 taxonomy:
     tag:
         - random
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: josh-nuttall-271928-unsplash.jpg
+header_image_credit: 'Josh Nuttall on Unsplash'
+header_image_creditlink: 'https://unsplash.com/@jjnuttall'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 hide_from_post_list: false
 ---
+
 This post is a sidebar conversation and may be removed.
 
 !!! Is *efficiency* a virtue?
+
 ===
 
 !!! [Click here to view the history of this post in GitHub or to contribute.](https://github.com/cmadland/phd/commits/master/pages/01.blog/efficiency/item.md)
