@@ -17,7 +17,7 @@ This post is a sidebar conversation and may be removed.
 !!! Is *efficiency* a virtue?
 ===
 
-!!! [Click here to view the history of this post in GitHub.](https://github.com/cmadland/phd/commits/master/pages/01.blog/analyzing-open/item.md)
+!!! [Click here to view the history of this post in GitHub or to contribute.](https://github.com/cmadland/phd/commits/master/pages/01.blog/efficiency/item.md)
 
 During her grad studies, my wife picked up the saying `Efficiency is not a virtue.` from one of her profs (I don't know if he is *actually* a Professor, but I'll presume for now).
 
