@@ -17,7 +17,7 @@ hide_from_post_list: false
 
 This post is a sidebar conversation and may be removed.
 
-!!! Is *efficiency* a virtue?
+!! Is *efficiency* a virtue?
 
 ===
 
