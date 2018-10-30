@@ -12,12 +12,13 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: true
+hide_from_post_list: false
 ---
 
 This post is a sidebar conversation and may be removed.
 
 !!! Is *efficiency* a virtue?
+
 ===
 
 !!! [Click here to view the history of this post in GitHub or to contribute.](https://github.com/cmadland/phd/commits/master/pages/01.blog/efficiency/item.md)
