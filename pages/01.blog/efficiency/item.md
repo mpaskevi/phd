@@ -5,7 +5,7 @@ taxonomy:
         - random
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image: josh-nuttall-271928-unsplash.jpg
+hero_image: a-josh-nuttall-271928-unsplash.jpg
 header_image_credit: 'Josh Nuttall on Unsplash'
 header_image_creditlink: 'https://unsplash.com/@jjnuttall'
 blog_url: /blog
