@@ -30,6 +30,15 @@ Educators who have surveyed the literature on the history of open education (Hen
   - from surveillance
   - to contribute, share, exercise agency, access
 
+#### Open Education Resources (OER)
+
+In 2012, the provincial government of British Columbia announced funding for the creation of openly licensed textbooks for the 40 highest enrolment courses in BC post-secondary institutions. The project was to be stewarded by BCcampus. Since then, the BCcampus Open Textbook Repository has grown to over 200 open textbooks and other resources as provincial funding has expanded.
+
+The Open Textbook project in BC was not the first open education initiative in BC, but it has arguably had the most influence. With this influx of government funding and support for the creation, adaptation, and adoption of open textbooks, it is understandable that the focus in Western Canada has been on open education being primarily about reducing student costs. Other high profile initiatives in North America include the OpenStax project at Rice University, Saylor Academy, Lumen Learning and several institutions who have partnered with the Open Education Resources universitas (OERu).
+
+There is a small, but growing, body of literature on the topic of the effect of the adoption of open textbooks in higher education. Much of the literature is focussed on the effect on Costs, Outcomes, Uses, and Perceptions (COUP) related to the use of open textbooks. 
+
+
 ### Points of Confusion
  - student-centred pedagogies
  - open licenses
