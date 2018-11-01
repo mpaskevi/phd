@@ -34,9 +34,19 @@ Educators who have surveyed the literature on the history of open education (Hen
 
 In 2012, the provincial government of British Columbia announced funding for the creation of openly licensed textbooks for the 40 highest enrolment courses in BC post-secondary institutions. The project was to be stewarded by BCcampus. Since then, the BCcampus Open Textbook Repository has grown to over 200 open textbooks and other resources as provincial funding has expanded.
 
+The defining characteristic of OER is that they are released under an open license, usually a Creative Commons license which allows end users to engage in five activities with materials (retain, reuse, revise, remix, and redistribute), collectively known as the "5R permissions" or "the 5Rs" @wileyDefiningOpenOpenND.
+
 The Open Textbook project in BC was not the first open education initiative in BC, but it has arguably had the most influence. With this influx of government funding and support for the creation, adaptation, and adoption of open textbooks, it is understandable that the focus in Western Canada has been on open education being primarily about reducing student costs. Other high profile initiatives in North America include the OpenStax project at Rice University, Saylor Academy, Lumen Learning and several institutions who have partnered with the Open Education Resources universitas (OERu).
 
-There is a small, but growing, body of literature on the topic of the effect of the adoption of open textbooks in higher education. Much of the literature is focussed on the effect on Costs, Outcomes, Uses, and Perceptions (COUP) related to the use of open textbooks. 
+There is a small, but growing, body of literature on the topic of the effects of the adoption of open textbooks in higher education. Much of the literature is focussed on the effect of open textbooks on Costs, Outcomes, Uses, and Perceptions (COUP) related to the use of open textbooks.
+
+#### OER-enabled Pedagogies
+
+David Wiley has been a tireless champion for the use of OER and open textbooks in higher education for many years. He is the chief steward and host of the Open Education Conference held each year and writes extensively on the topic. In 2017, David noticed that there were many instances of people using the term "open education" to mean different things and it was becoming difficult to speak or write meaningfully about it without causing confusion. Wiley's response to this was to coin a term that he hadn't previously seen in the literature so that he could be clear about what he meant. He chose to use the term "OER-enabled pedagogy" to refer to what he called:
+
+> the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER. (Wiley, 2018, @wileyDefiningOEREnabledPedagogy2018).
+
+Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students.
 
 
 ### Points of Confusion
