@@ -46,9 +46,9 @@ The writers of the declaration go on to state:
 
 In 2012, the provincial government of British Columbia announced funding for the creation of openly licensed textbooks for the 40 highest enrolment courses in BC post-secondary institutions. The project was to be stewarded by BCcampus. Since then, the BCcampus Open Textbook Repository has grown to over 200 open textbooks and other resources as provincial funding has expanded.
 
-The defining characteristic of OER is that they are released under an open license, usually a Creative Commons license which allows end users to engage in five activities with materials (retain, reuse, revise, remix, and redistribute), collectively known as the "5R permissions" or "the 5Rs" @wileyDefiningOpenOpenND.
+The defining characteristic of OER is that they are released under an open license, usually a Creative Commons license which empowers end users to engage in five activities with materials (retain, reuse, revise, remix, and redistribute), collectively known as the "5R permissions" or "the 5Rs" @wileyDefiningOpenOpenND.
 
-The Open Textbook project in BC was not the first open education initiative in BC, but it has arguably had the most influence. With this influx of government funding and support for the creation, adaptation, and adoption of open textbooks, it is understandable that the focus in Western Canada has been on open education being primarily about reducing student costs. Other high profile initiatives in North America include the OpenStax project at Rice University, Saylor Academy, Lumen Learning and several institutions who have partnered with the Open Education Resources universitas (OERu).
+The Open Textbook project in BC was not the first open education initiative in BC, but it has arguably had the most influence. With this influx of government funding and support for the creation, adaptation, and adoption of open textbooks, it is understandable that the focus in Western Canada initially was on open education being primarily about reducing student costs. Other high profile initiatives in North America include the OpenStax project at Rice University, Saylor Academy, Lumen Learning and several institutions who have partnered with the Open Education Resources universitas (OERu).
 
 There is a small, but growing, body of literature on the topic of the effects of the adoption of open textbooks in higher education. Much of the literature is focussed on the effect of open textbooks on Costs, Outcomes, Uses, and Perceptions (COUP) related to the use of open textbooks.
 
@@ -58,9 +58,10 @@ David Wiley has been a tireless champion for the use of OER and open textbooks i
 
 > the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER. (Wiley, 2018, @wileyDefiningOEREnabledPedagogy2018).
 
-Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students.
+Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students. He is clear in his focus only on those activities that are enabled by open licenses and the 5R permissions. Consequently, OER-enabled pedagogies should be considered as a subset of open pedagogies.
 
 #### Open Education Practices (OEP) and Open Pedagogies
+
 
 
 ### Points of Confusion
@@ -71,5 +72,9 @@ Wiley's definition serves to move the emphasis from cost-savings for students to
  Part of the difficulty is that there is a diverse, world-wide community working under the auspices of *open education* leading to localized solutions to localized problems and a balkanizing effect.
 
 ### Moving Forward
+
+- inviting and empowering participation in high quality learning environments through the use of open education resources, policies that reduce barriers to participation, open pedagogies, interoperable technology systems and tools,
+
+
 - invitation to contribute to a learning community
 - *personalization, connectedness, openness (in terms of OER, etc.), assessment (for learning), and access (multi-access) (Irvine, unpublished)*
