@@ -23,7 +23,15 @@ Educators who have surveyed the literature on the history of open education (Hen
 
 In 2007 a small group of open educators met in Cape Town, South Africa and published the *Cape Town Open Education Declaration* which provides a clear description of their vision of the potential of open education as enabled by openly licensed materials. They wrote:
 
->The expanding global collection of open educational resources has created fertile ground for this effort. These resources include openly licensed course materials, lesson plans, textbooks, games, software and other materials that support teaching and learning. They contribute to making education more accessible, especially where money for learning materials is scarce. They also nourish the kind of participatory culture of learning, creating, sharing and cooperation that rapidly changing knowledge societies need.
+>The expanding global collection of open educational resources has created fertile ground for this effort. These resources include openly licensed course materials, lesson plans, textbooks, games, software and other materials that support teaching and learning. They contribute to making education more accessible, especially where money for learning materials is scarce. They also nourish the kind of participatory culture of learning, creating, sharing and cooperation that rapidly changing knowledge societies need. @CapeTownOpen, Para. 3
+
+Clearly, early official statements regarding open education were focussed not only on the fact of open licenses, but possibly moreso on the fact that open resources can reduce costs for students and build a culture of highly effective learning environments.
+
+The writers of the declaration go on to state:
+
+>However, open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning. Understanding and embracing innovations like these is critical to the long term vision of this movement. @CapeTownOpen, Para. 4
+
+
 
 ### Modern Conceptions
 - Open Education practices (Cronin & MacLaren, 2018, Paskevicius, 2017)
