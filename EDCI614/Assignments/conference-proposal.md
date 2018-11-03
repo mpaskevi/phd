@@ -48,6 +48,8 @@ David Wiley has been a tireless champion for the use of OER and open textbooks i
 
 Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students.
 
+#### Open Education Practices (OEP) and Open Pedagogies
+
 
 ### Points of Confusion
  - student-centred pedagogies
