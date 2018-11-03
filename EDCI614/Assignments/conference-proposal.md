@@ -19,7 +19,11 @@ Audrey Watters (hackeducation.com, n.d.) often reminds her readers that we ignor
 
 Educators who have surveyed the literature on the history of open education (Hendricks, 2017; Morgan, 2016) have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004) or more specifically "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005, *trans.*). Morgan notes that there are distinct similarities between what Paquette advocated as far back as 1979 and that to which open educators currently aspire, such as: student choice and autonomy, connectedness, access, and student voice to name a few.
 
+#### Cape Town Open Education Declaration
 
+In 2007 a small group of open educators met in Cape Town, South Africa and published the *Cape Town Open Education Declaration* which provides a clear description of their vision of the potential of open education as enabled by openly licensed materials. They wrote:
+
+>The expanding global collection of open educational resources has created fertile ground for this effort. These resources include openly licensed course materials, lesson plans, textbooks, games, software and other materials that support teaching and learning. They contribute to making education more accessible, especially where money for learning materials is scarce. They also nourish the kind of participatory culture of learning, creating, sharing and cooperation that rapidly changing knowledge societies need.
 
 ### Modern Conceptions
 - Open Education practices (Cronin & MacLaren, 2018, Paskevicius, 2017)
