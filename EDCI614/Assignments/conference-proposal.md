@@ -62,7 +62,7 @@ Wiley's definition serves to move the emphasis from cost-savings for students to
 
 #### Open Education Practices (OEP) and Open Pedagogies
 
-
+Open education practices (OEP) and open pedagogies are terms often used synonymously, and this review will follow that convention.
 
 ### Points of Confusion
  - student-centred pedagogies
