@@ -22,7 +22,7 @@ hide_from_post_list: false
 The format for this assignment is roughly similar to the [Conference Abstract](http://grav.madland.ca/blog/conference-abstract-submitted) assignment, except that it offers you more space and hence the opportunity to provide a degree of greater detail regarding what you imagine you might present.
 Length: 3 pages double-spaced (maximum), excluding works cited
 
-`still needs some cleanup of citations and such`
+`still needs some cleanup of citations and such` 
 
 ===
 
