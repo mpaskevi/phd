@@ -8,8 +8,8 @@ taxonomy:
         - Assignment
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image:
-header_image_alt_text: ''
+hero_image: img_5135.jpg
+header_image_alt_text: 'Rainforest'
 header_image_credit: 'Colin Madland'
 blog_url: /blog
 show_sidebar: true
