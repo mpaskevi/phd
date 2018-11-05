@@ -68,7 +68,3 @@ It should be noted that Cronin & McLaren's definition does not specifically ment
 It seems clear from both historical and contemporary literature that open education is a broad enterprise that may include OER, OER-enabled pedagogies, and open educational practices as artifacts and practices of openness in education. Also under the umbrella of open education, but beyond the scope of this review are the use of open source software, open research, open data, interoperable technologies, and policies that reduce barriers to access.
 
 In summary, openness in education invites and empowers participation in high quality learning environments through the implementation of policies that reduce barriers to participation such as the use of open education resources, open educational practices, interoperable technology systems and tools, and which maximize student voice and participation.
-
-
-- invitation to contribute to a learning community
-- *personalization, connectedness, openness (in terms of OER, etc.), assessment (for learning), and access (multi-access) (Irvine, unpublished)*
