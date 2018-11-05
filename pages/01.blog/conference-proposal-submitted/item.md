@@ -26,11 +26,14 @@ Length: 3 pages double-spaced (maximum), excluding works cited
 
 !!! [Click here to view the history of this post in GitHub.](https://github.com/cmadland/phd/commits/master/EDCI614/Assignments/conference-proposal.md)
 
+Abstract Assignment
+Write a 200 word (maximum) double-spaced description of an imagined presentation you wish to make that identifies a philosophical or theoretical problem, articulates a purpose or thesis statement, and from that point describes how you will respond to the problem.
+
 ### A (Brief) History of Open Education
 
-Audrey Watters (hackeducation.com, n.d.) often reminds her readers that we ignore the history of educational technology at our own peril. Her point is that the historical foundations of ideas and artifacts are important in interrogating modern trends. I argue that the same is true when thinking about *open education*. Lack of clarity or precision about what is meant by open education leads to difficulty for researchers and educators, and we might be well-served to explore the history of the concept.
+Audrey Watters (hackeducation.com, n.d.) often reminds her readers that we ignore the history of educational technology at our own peril. Her point is that the historical foundations of ideas and artifacts are important in interrogating modern trends. I argue that the same is true when thinking about *open education*. Lack of clarity or precision about what is meant by open education leads to difficulty for researchers and educators, and we might be well-served to explore the history and current understandings of the concept.
 
-Educators who have surveyed the literature on the history of open education (Hendricks, 2017; Morgan, 2016) have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004) or more specifically "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005, *trans.*). Morgan notes that there are distinct similarities between what Paquette advocated as far back as 1979 and that to which open educators currently aspire, such as: student choice and autonomy, connectedness, access, and student voice to name a few.
+Educators who have surveyed the literature on the history of open education (Hendricks, 2017; Morgan, 2016) have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004) and "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005, *trans.*). Morgan (2016) notes that there are distinct similarities between what Paquette advocated as far back as 1979 and that to which open educators currently aspire, such as: student choice and autonomy, connectedness, access, and student voice to name a few.
 
 #### Cape Town Open Education Declaration
 
@@ -46,27 +49,32 @@ The writers of the declaration go on to state:
 
 #### Open Education Resources (OER)
 
-In 2012, the provincial government of British Columbia announced funding for the creation of openly licensed textbooks for the 40 highest enrolment courses in BC post-secondary institutions. The project was to be stewarded by BCcampus. Since then, the BCcampus Open Textbook Repository has grown to over 200 open textbooks and other resources as provincial funding has expanded.
+> Open Education Resources (OER) are teaching, learning and research materials in any medium – digital or otherwise – that reside in the public domain or have been released under an open license that permits no-cost access, use, adaptation and redistribution by others with no or limited restrictions. (UNESCO)
 
 The defining characteristic of OER is that they are released under an open license, usually a Creative Commons license which empowers end users to engage in five activities with materials (retain, reuse, revise, remix, and redistribute), collectively known as the "5R permissions" or "the 5Rs" @wileyDefiningOpenOpenND.
 
-The Open Textbook project in BC was not the first open education initiative in BC, but it has arguably had the most influence. With this influx of government funding and support for the creation, adaptation, and adoption of open textbooks, it is understandable that the focus in Western Canada initially was on open education being primarily about reducing student costs. Other high profile initiatives in North America include the OpenStax project at Rice University, Saylor Academy, Lumen Learning and several institutions who have partnered with the Open Education Resources universitas (OERu).
-
-There is a small, but growing, body of literature on the topic of the effects of the adoption of open textbooks in higher education. Much of the literature is focussed on the effect of open textbooks on Costs, Outcomes, Uses, and Perceptions (COUP) related to the use of open textbooks.
+OER projects like the Open Textbook Repository in BC (open.bccampus.ca) have received significant amounts of funding from the BC provincial government, which initially led to an over-emphasis on reducing costs for students by using 'free' materials. Other high profile initiatives in North America include the OpenStax project at Rice University (openstax.org), Saylor Academy (sayloracademy.org), Lumen Learning (lumenlearning.com) and several institutions who have partnered with the Open Education Resources universitas (OERu.org).
 
 #### OER-enabled Pedagogies
 
-David Wiley has been a tireless champion for the use of OER and open textbooks in higher education for many years. He is the chief steward and host of the Open Education Conference held each year and writes extensively on the topic. In 2017, David noticed that there were many instances of people using the term "open education" to mean different things and it was becoming difficult to speak or write meaningfully about it without causing confusion. Wiley's response to this was to coin a term that he hadn't previously seen in the literature so that he could be clear about what he meant. He chose to use the term "OER-enabled pedagogy" to refer to what he called:
+ In 2017, David Wiley (@wileyOEREnabledPedagogy2017) noticed that there were many instances of people using the term "open education" to mean different things and it was becoming difficult to speak or write meaningfully about it without causing confusion. Wiley's response to this was to coin a term that he hadn't previously seen in the literature so that he could be clear about what he meant. He chose to use the term "OER-enabled pedagogy" to refer to what he called:
 
 > the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER. (Wiley, 2018, @wileyDefiningOEREnabledPedagogy2018).
 
-Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students. He is clear in his focus only on those activities that are enabled by open licenses and the 5R permissions. Consequently, OER-enabled pedagogies should be considered as a subset of open pedagogies.
+Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students. He is clear in his focus is only on those activities that are enabled by open licenses and the 5R permissions. Consequently, OER-enabled pedagogies should be considered as a subset of open education practices.
 
 #### Open Education Practices (OEP)
 
-Open education practice (OEP) is a more recent construct than open education, with early descriptions beginning to appear in the literature in 2007 (Cronin & Maclaren, 2018). Cronin and MacLaren argue for an expansive view of OEP based on the history of the concept in the literature. They highlight four key initiatives that have influenced much of the subsequent literature.
+Open education practice (OEP) is a more recent construct than open education, with early descriptions beginning to appear in the literature in 2007 (Cronin & Maclaren, 2018). Cronin and MacLaren argue for an "expansive view" of OEP based on the history of the concept in the literature.
 
-Characteristics of OEP that they found included the empowerment of students in constructing knowledge (@geserOpenEducationalPractices, @ehlersOpenEducationalPractices2010), innovative pedagogies, use and sharing of open resources, public pedagogies, alternative forms of assessment and accreditation, the use of open technologies @hbeethamOpenPracticesBriefing2012 @hodgkinson-williamscherylDegreesEaseAdoption2014, and a general aim to improve the quality of learning in higher education.
+Characteristics of OEP that they found included
+- the empowerment of students in constructing knowledge (@geserOpenEducationalPractices, @ehlersOpenEducationalPractices2010),
+- innovative pedagogies,
+- use and sharing of open resources,
+- public pedagogies,
+- alternative forms of assessment and accreditation,
+- the use of open technologies @hbeethamOpenPracticesBriefing2012 @hodgkinson-williamscherylDegreesEaseAdoption2014, and
+- a general aim to improve the quality of learning in higher education.
 
 Paskevicius (2017) used the framework of constructive alignment (biggs) to suggest a working definition of OEP as:
 
