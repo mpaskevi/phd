@@ -61,12 +61,13 @@ Paskevicius (2017) used the framework of constructive alignment (biggs) to sugge
 
 > Teaching and learning practices where openness is enacted within all aspects of instructional practice ... OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences (sic), facilitate open peer-review, and support participatory student-directed projects.
 
-It should be noted that Cronin & McLaren's definition does not specifically mention OER either as a necessary condition or an output of OEP, whereas Paskevicius' definition is more definitive in specifying that the use and creation of OER is included in the definition.
+It should be noted that Cronin & McLaren's definition does not specifically mention OER either as a necessary condition or an output of OEP, whereas Paskevicius' definition is more definitive in specifying that the use and creation of OER is included in the definition. It seems that a definition that is too expansive may lead to the term open education being applied to any initiative that seeks to improve educational access or effectiveness, thereby rendering the term relatively meaningless.
 
 ### Moving Forward
 
 It seems clear from both historical and contemporary literature that open education is a broad enterprise that may include OER, OER-enabled pedagogies, and open educational practices as artifacts and practices of openness in education. Also under the umbrella of open education, but beyond the scope of this review are the use of open source software, open research, open data, interoperable technologies, and policies that reduce barriers to access.
-- inviting and empowering participation in high quality learning environments through the use of open education resources, policies that reduce barriers to participation, open pedagogies, interoperable technology systems and tools,
+
+In summary, openness in education invites and empowers participation in high quality learning environments through the implementation of policies that reduce barriers to participation such as the use of open education resources, open educational practices, interoperable technology systems and tools, and which maximize student voice and participation.
 
 
 - invitation to contribute to a learning community
