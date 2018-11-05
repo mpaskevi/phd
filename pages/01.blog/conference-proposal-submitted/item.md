@@ -15,7 +15,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: true
+hide_from_post_list: false
 ---
 
 > Conference Proposal—30%
