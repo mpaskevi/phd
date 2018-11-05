@@ -60,9 +60,18 @@ David Wiley has been a tireless champion for the use of OER and open textbooks i
 
 Wiley's definition serves to move the emphasis from cost-savings for students to the unique ways that OER can be used by educators to engage their students. He is clear in his focus only on those activities that are enabled by open licenses and the 5R permissions. Consequently, OER-enabled pedagogies should be considered as a subset of open pedagogies.
 
-#### Open Education Practices (OEP) and Open Pedagogies
+#### Open Education Practices (OEP)
 
-Open education practices (OEP) and open pedagogies are terms often used synonymously, and this review will follow that convention.
+Open education practice (OEP) is a more recent construct than open education, with early descriptions beginning to appear in the literature in 2007 (Cronin & Maclaren, 2018). Cronin and MacLaren argue for an expansive view of OEP based on the history of the concept in the literature. They highlight four key initiatives that have influenced much of the subsequent literature.
+
+Characteristics of OEP that they found included the empowerment of students in constructing knowledge (@geserOpenEducationalPractices, @ehlersOpenEducationalPractices2010), innovative pedagogies, use and sharing of open resources, public pedagogies, alternative forms of assessment and accreditation, the use of open technologies @hbeethamOpenPracticesBriefing2012 @hodgkinson-williamscherylDegreesEaseAdoption2014, and a general aim to improve the quality of learning in higher education.
+
+Paskevicius (2017) used the framework of constructive alignment (biggs) to suggest a working definition of OEP as:
+
+> Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences (sic), facilitate open peer-review, and support participatory student-directed projects.
+
+#### Social Justice and Community Development
+
 
 ### Points of Confusion
  - student-centred pedagogies
