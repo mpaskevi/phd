@@ -22,16 +22,11 @@ hide_from_post_list: false
 The format for this assignment is roughly similar to the [Conference Abstract](http://grav.madland.ca/blog/conference-abstract-submitted) assignment, except that it offers you more space and hence the opportunity to provide a degree of greater detail regarding what you imagine you might present.
 Length: 3 pages double-spaced (maximum), excluding works cited
 
-As submitted. 
+As submitted.
 
 ===
 
 !!! [Click here to view the history of this post in GitHub.](https://github.com/cmadland/phd/commits/master/EDCI614/Assignments/conference-proposal.md)
-
-Abstract Assignment
-Write a 200 word (maximum) double-spaced description of an imagined presentation you wish to make that identifies a philosophical or theoretical problem, articulates a purpose or thesis statement, and from that point describes how you will respond to the problem.
-
-
 
 Audrey Watters (Audrey Watters, n.d.) often reminds her readers that we ignore the history of educational technology at our own peril. Her point is that the historical foundations of ideas and artifacts are important in interrogating modern trends. I argue that the same is true when thinking about _open education_. Lack of clarity or precision about what is meant by open education leads to difficulty for researchers and educators, and we might be well served to explore both the historical and current understandings of the concept.
 
@@ -55,7 +50,7 @@ It seems clear from both historical and contemporary literature that open educat
 
 In summary, openness in education invites and empowers participation in high quality learning environments through the implementation of policies that reduce barriers to participation such as the use of open education resources, open educational practices, interoperable technology systems and tools, and which maximize student voice and participation.
 
-# References
+#### References
 
 Audrey Watters. (n.d.). Hack Education. Retrieved November 5, 2018, from http://hackeducation.com/
 
