@@ -3,13 +3,13 @@ title: 'Conference Proposal'
 taxonomy:
     tag:
         - open
+        - Assignment
         - edci614
         - proposal
-        - Assignment
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
-hero_image: img_5135.jpg
-header_image_alt_text: 'Rainforest'
+hero_image: IMG_5135.JPG
+header_image_alt_text: Rainforest
 header_image_credit: 'Colin Madland'
 blog_url: /blog
 show_sidebar: true
