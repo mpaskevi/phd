@@ -1,4 +1,12 @@
-open as access
+open as:
+- participation/access
+  - legitimate peripheral participation (Lave & Wenger)
+- pedagogy
+- permission
+- policy
+- product
+  - OER
+  - fully realized human beings (Freire)
 
 ### First People's Principles of learning.
 - Learning ultimately supports the well-being of the self, the family, the community, the land, the spirits, and the ancestors.
