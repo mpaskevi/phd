@@ -4,6 +4,7 @@ open as:
 - pedagogy
 - permission
 - policy
+  - [https://www.jamesmskidmore.com/skidwriting/oewebinar-20181108](https://www.jamesmskidmore.com/skidwriting/oewebinar-20181108)
 - product
   - OER
   - fully realized human beings (Freire)
