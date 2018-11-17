@@ -2,6 +2,7 @@ open as:
 - participation/access
   - legitimate peripheral participation (Lave & Wenger)
 - pedagogy
+  - 5Rs: respect, relevance, reciprocity, responsibility, and relationships
 - permission
 - policy
   - [https://www.jamesmskidmore.com/skidwriting/oewebinar-20181108](https://www.jamesmskidmore.com/skidwriting/oewebinar-20181108)
