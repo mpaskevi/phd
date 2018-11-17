@@ -11,6 +11,8 @@ taxonomy:
 hide_git_sync_repo_link: false
 hero_classes: 'overlay-dark-gradient text-light'
 hero_image: banking-model.jpg
+header_image_credit: 'Jean Marc Cote (Public Domain in Canada)'
+header_image_creditlink: 'https://upload.wikimedia.org/wikipedia/commons/0/05/France_in_XXI_Century._School.jpg'
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
