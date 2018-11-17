@@ -40,4 +40,4 @@ Dehumanization starts early in the banking model of education.
 
 !!!! See Freire, P. (2018). *Pedagogy of the Oppressed: 50th Anniversary Edition.* Bloomsbury Academic.
 
-!!!! [See also](http://grav.madland.ca/articles/paulo-freire/pedagogy-of-the-oppressed/chapter-2) 
+!!!! See also [http://grav.madland.ca/articles/paulo-freire/pedagogy-of-the-oppressed/chapter-2](http://grav.madland.ca/articles/paulo-freire/pedagogy-of-the-oppressed/chapter-2) 
