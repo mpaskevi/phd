@@ -36,4 +36,8 @@ Him: At School...ooOOOhhh! I wish I could go to school like that.
 
 Me: *sigh*
 
-Dehumanization starts early in the banking model of education. See Freire, P. (2018). *Pedagogy of the Oppressed: 50th Anniversary Edition.* Bloomsbury Academic.
+Dehumanization starts early in the banking model of education.
+
+!!!!! See Freire, P. (2018). *Pedagogy of the Oppressed: 50th Anniversary Edition.* Bloomsbury Academic.
+
+!!!!! [See also](http://grav.madland.ca/articles/paulo-freire/pedagogy-of-the-oppressed/chapter-2) 
