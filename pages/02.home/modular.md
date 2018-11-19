@@ -3,7 +3,7 @@ title: Home
 media_order: rawpixel-315198-unsplash.jpg
 content:
     items: '@self.modular'
-published: false
+published: true
 body_classes: 'title-center title-h1h2 header-full width header-transparent'
 hide_hypothesis: false
 ---
