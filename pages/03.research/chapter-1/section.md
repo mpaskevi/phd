@@ -28,5 +28,6 @@ Use the one that matches your style manual spacing requirements.
   - The end of each chapter, select Location – Endnotes – End of Section. Before adding a section footnote, add a section break so Word can identify the location of where to place the footnote. Do this by: position the cursor immediately before the start of the next chapter, then select Insert – Break – Section Break Continuous.
   - The end of the entire main body, select Location – Endnotes – End of Document.
 
-To add additional chapters do the following actions: Insert – Break – Page Break,
-Type the title (do not press the enter key), from the style drop-down in the Formatting 
+To add additional chapters do the following actions: 
+- Insert – Break – Page Break,
+- Type the title (do not press the enter key), from the style drop-down in the Formatting toolbar select Heading 1. - Now proceed with adding subheadings or body text.
