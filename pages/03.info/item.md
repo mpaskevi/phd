@@ -9,7 +9,7 @@ header_image_credit: 'UVic by Colin Madland'
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: false
-show_pagination: false
+show_pagination: true
 post_icon: info
 hide_from_post_list: true
 ---
