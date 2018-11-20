@@ -1,13 +1,15 @@
 ---
 title: Research
+date: '22:20 18-11-2018'
+hide_git_sync_repo_link: false
+hide_page_title: false
+body_classes: 'header-fixed header-dark header-transparent'
+child_type: section
 content:
     items: '@self.modular'
     order:
         by: ''
         dir: ''
-date: '22:20 18-11-2018'
-hide_git_sync_repo_link: false
-body_classes: 'header-dark header-transparent'
-child_type: section
 ---
+
 ## You'll start to see stuff here soon.
