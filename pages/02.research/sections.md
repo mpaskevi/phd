@@ -8,8 +8,8 @@ visible: true
 content:
     items: '@self.modular'
     order:
-        by: ''
-        dir: ''
+        by: folder
+        dir: asc
 ---
 
 ## You'll start to see stuff here soon.
