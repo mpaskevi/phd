@@ -6,7 +6,7 @@ hide_page_title: true
 body_classes: header-animated
 visible: true
 content:
-    items: '@self.modular'
+    items: '@self.children'
     order:
         by: folder
         dir: asc
