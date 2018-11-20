@@ -7,10 +7,11 @@ hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
 hero_image: IMG_5308.JPG
 header_image_credit: 'UVic by Colin Madland'
 blog_url: /blog
-show_sidebar: true
-show_breadcrumbs: true
-show_pagination: true
-hide_from_post_list: false
+show_sidebar: false
+show_breadcrumbs: false
+show_pagination: false
+post_icon: info
+hide_from_post_list: true
 ---
 
 # Welcome!
