@@ -6,10 +6,12 @@ hide_page_title: true
 body_classes: header-animated
 visible: true
 content:
-    items: '@self.children'
+    items: '@self.modular'
     order:
-        by: 'folder'
-        dir: 'asc'
+        by: ''
+        dir: ''
 ---
 
 ## You'll start to see stuff here soon.
+
+Use the menu on the right to see the latest.
