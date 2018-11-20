@@ -3,6 +3,14 @@ title: Info
 date: '22:13 19-11-2018'
 hide_git_sync_repo_link: false
 body_classes: header-image
+hero_classes: 'hero-fullscreen text-light overlay-dark-gradient'
+hero_image: IMG_5308.JPG
+header_image_credit: 'UVic by Colin Madland'
+blog_url: /blog
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
+hide_from_post_list: false
 ---
 
 # Welcome!
