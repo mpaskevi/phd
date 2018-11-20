@@ -2,7 +2,7 @@
 title: Research
 date: '22:20 18-11-2018'
 hide_git_sync_repo_link: false
-hide_page_title: false
+hide_page_title: true
 body_classes: header-fixed
 child_type: section
 visible: true
