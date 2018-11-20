@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 media_order: rawpixel-315198-unsplash.jpg
 content:
     items: '@self.modular'
