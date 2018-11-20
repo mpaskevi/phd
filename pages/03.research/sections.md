@@ -3,7 +3,7 @@ title: Research
 date: '22:20 18-11-2018'
 hide_git_sync_repo_link: false
 hide_page_title: false
-body_classes: header-light
+body_classes: header-fixed
 child_type: section
 content:
     items: '@self.modular'
