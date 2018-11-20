@@ -5,7 +5,7 @@ hide_git_sync_repo_link: false
 hide_page_title: false
 body_classes: header-fixed
 child_type: section
-visible: false
+visible: true
 content:
     items: '@self.modular'
     order:
