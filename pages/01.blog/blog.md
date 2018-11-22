@@ -21,7 +21,7 @@ bricklayer_layout: true
 display_post_summary:
     enabled: false
 post_icon: calendar-o
-continue_link_as_button: false
+continue_link_as_button: true
 sitemap:
     changefreq: monthly
 modular_content:
