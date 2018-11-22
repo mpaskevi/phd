@@ -6,8 +6,6 @@ hide_git_sync_repo_link: false
 hide_page_title: false
 ---
 
-
-
 | Indigenous education | Online Education |
 | :--- | ---:|
 | situated in a specific community | accessible across multiple communities  |
