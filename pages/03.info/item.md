@@ -1,5 +1,6 @@
 ---
 title: Info
+published: false
 date: '22:13 19-11-2018'
 hide_git_sync_repo_link: false
 body_classes: header-image
