@@ -12,7 +12,7 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
-hide_from_post_list: false
+hide_from_post_list: true
 ---
 
 This post is a sidebar conversation and may be removed.
