@@ -7,14 +7,14 @@ hide_page_title: false
 ---
 
 | Indigenous education | Online Education |
-| :--- | ---:|
+| :--- | :---|
 | situated in a specific community | accessible across multiple communities  |
 | highly contextual   | very low context  |
 | experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ Indigenous education  |
 
 (Tessaro et al, 2017)
 
-- 5Rs of Indigenous Education
+#### 5Rs of Indigenous Education
   - respect
   - reciprocity
   - relevance
