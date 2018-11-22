@@ -19,7 +19,7 @@ content:
     url_taxonomy_filters: true
 bricklayer_layout: true
 display_post_summary:
-    enabled: false
+    enabled: true
 post_icon: calendar-o
 continue_link_as_button: true
 sitemap:
