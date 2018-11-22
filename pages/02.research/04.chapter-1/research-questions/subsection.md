@@ -18,6 +18,7 @@ Super Tentative, first draft.
 
 - incommensurability between the ethos of technology (surveillance capitalism) and ethos of Indigenous communities and ways of knowing
 - aspirational narrative in Canada that open education is bent towards social justice
+  - do we have evidence that this is actually happening?
 
 ### Purpose
 
