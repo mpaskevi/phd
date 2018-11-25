@@ -25,3 +25,41 @@ open as:
 respect, relevance, reciprocity, responsibility, and relationships
 
 @tessaroFiveIndigenizingOnline2018
+
+| Indigenous education | Online Education |
+| :--- | ---:|
+| situated in a specific community | accessible across multiple communities  |
+| highly contextual   | very low context  |
+| experiential, holistic, personal, orally transmitted, narrative, metaphor   | technologically mediated, therefore difficult to align w/ Indigenous education  |
+
+(Tessaro et al, 2017)
+
+# Decolonizing Open Education
+- Definitions
+  - indigenization
+  - decolonization
+  - reconciliation
+
+## Competing models?
+
+### Open Education
+- social justice aspirations
+- access
+- participation
+- digitally mediated
+  - algorithmic
+  - extractive
+  -
+
+### Indigenous Education
+- First Peoples' Principles of Learning
+- Aboriginal Ways of Knowing and Being
+- 5 Rs
+  - respect
+  - reciprocity
+  - relevance
+  - responsibility
+  - relationships
+- digital divide
+
+## Framework for Reconciliation
