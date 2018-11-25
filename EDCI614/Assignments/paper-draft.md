@@ -34,8 +34,9 @@ respect, relevance, reciprocity, responsibility, and relationships
 
 (Tessaro et al, 2017)
 
-# Decolonizing Open Education
+# Indigenizing Open Education
 - Definitions
+  - open education
   - indigenization
   - decolonization
   - reconciliation
@@ -63,3 +64,9 @@ respect, relevance, reciprocity, responsibility, and relationships
 - digital divide
 
 ## Framework for Reconciliation
+
+### Indigenization
+
+### Decolonization
+
+### Reconciliation
