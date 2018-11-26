@@ -17,4 +17,4 @@ A challenge to modern open educators is reconciling the continuing emphasis on e
 |orally transmitted   | text-based  |
 _Table 1. Points of conflict between Indigenous and Open Education_
 
-[#bibliography]
+[#bibliography]: #
