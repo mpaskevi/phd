@@ -65,6 +65,9 @@ respect, relevance, reciprocity, responsibility, and relationships
 
 ## Framework for Reconciliation
 
+- cooperative learning and the 5Rs
+
+
 ### Indigenization
 
 ### Decolonization
