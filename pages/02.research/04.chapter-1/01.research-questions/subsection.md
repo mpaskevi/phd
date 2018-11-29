@@ -17,6 +17,7 @@ Super Tentative, first draft.
 ### Problem
 
 - incommensurability between the ethos of technology (surveillance capitalism) and ethos of Indigenous communities and ways of knowing
+  - indigenous communities already a small voice; how do we amplify indigenous voices? should we amplify indigenous voices?
 - aspirational narrative in Canada that open education is bent towards social justice
   - do we have evidence that this is actually happening?
 
@@ -29,3 +30,9 @@ Super Tentative, first draft.
 
 - What role do non-Indigenous open educators have in responding to the TRC Calls to Action?
 - do OEP increase access to higher education for Indigenous learners
+
+#### Thoughts
+
+- UN Millenium development goals open education - Nathan Lane
+- Weller on risks of open ed
+- veletsianos on faculty in the open
