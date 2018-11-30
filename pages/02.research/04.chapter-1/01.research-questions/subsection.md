@@ -36,3 +36,6 @@ Super Tentative, first draft.
 - UN Millenium development goals open education - Nathan Lane
 - Weller on risks of open ed
 - veletsianos on faculty in the open
+- what ways can people who choose not to, or should not, be open on the internet, participate in the 'affordances' of open education?
+  - giving back to community (reciprocity)
+  -
