@@ -61,13 +61,13 @@ Before proceeding with a closer analysis, it is important to clarify what is mea
 
 Educators who have surveyed the literature on the history of open education have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004; Hendricks, 2017; Morgan, 2016) and, more specifically, three pairs of complementary values: "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005). Morgan (2016) notes that these aims towards autonomy and freedom persist in the open education literature today.
 
-This paper will begin by describing open education through three lenses: participation, pedagogy, and permissions.
+This paper will begin by describing open education through three lenses: permissions, pedagogy, and participation.
 
-###### Participation
+###### Permissions
 
-In 2007, a small group of open educators met in Cape Town, South Africa and published the _Cape Town Open Education Declaration_ in which they argue that open education can increase access to education and also "nourish [a] participatory culture of learning"  ("The Cape Town Open Education Declaration," n.d. para. 3-4). The Cape Town Declaration has become one of the most important documents in the open education movement and it forms the foundation of others who aspire to increase access, or invite participation, to higher education. More recently, Paskevicius described open education practices as "support[ing] participatory student-directed projects" [\(2017, p. 127\)](@paskeviciusConceptualizingOpenEducational2017) and Cronin and MacLaren describe OE as "resources, tools and practices to improve educational access, effectiveness, and equality worldwide" [\(2018, p. 127\)](@croninConceptualisingOEPReview2018.).
+The dominant discourse in OE literature between approximately 2002 and 2017 has focussed on the benefits of openness that can be realized through the creation and adoption of open educational resources (OER) [\(Lambert, 2018\)](@lambertChangingOurDis2018). OER are typically described as being educational resources such as books, articles, videos, lessons, courses, or other artifacts that are licensed to allow end users to participate in 5 activities related to the resource. Users are permitted and encouraged to revise, remix, reuse, retain, and redistribute the materials [\(Wiley, ND\)](@wileyDefiningOpenOpenND).
 
-Participation in OE environments means that potential students have both greater access to education (participation), and that they have a more significant "voice" in the process of education (democracy).
+Lambert [\(2018|)](@lambertChangingOurDis2018) describes this phase of the OE movement as being overly focussed on an aspirational narrative convinced *a priori* that 'openness' and 'access' are necessarily good. She challenges the assumption that simply providing free resources for all students will benefit all students.
 
 ###### Pedagogy
 
@@ -75,6 +75,14 @@ Inviting participation in OE environments can be a good first step towards openi
 
 
 This is echoed in Wiley and Hilton's description of "OER-enabled pedagogy" as "the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER." [\(2018\)]()@wileyDefiningOEREnabledPedagogy2018)
+
+###### Participation
+
+In 2007, a small group of open educators met in Cape Town, South Africa and published the _Cape Town Open Education Declaration_ in which they argue that open education can increase access to education and also "nourish [a] participatory culture of learning"  ("The Cape Town Open Education Declaration," n.d. para. 3-4). The Cape Town Declaration has become one of the most important documents in the open education movement and it forms the foundation of others who aspire to increase access, or invite participation, to higher education. More recently, Paskevicius described open education practices as "support[ing] participatory student-directed projects" [\(2017, p. 127\)](@paskeviciusConceptualizingOpenEducational2017) and Cronin and MacLaren describe OE as "resources, tools and practices to improve educational access, effectiveness, and equality worldwide" [\(2018, p. 127\)](@croninConceptualisingOEPReview2018.).
+
+Participation in OE environments means that potential students have both greater access to education (participation), and that they have a more significant "voice" in the process of education (democracy).
+
+
 
 
 
