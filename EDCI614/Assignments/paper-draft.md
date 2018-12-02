@@ -40,7 +40,7 @@ Open education (OE) has a relatively short history compared to other educational
 
 A challenge to modern open educators is reconciling the continuing emphasis on enacting social justice narratives with the attempt to do so in a digital landscape that is decidedly hostile, by design, to enacting social justice narratives. In the Canadian context, the most pressing need for justice is embodied in the lives and communities of the Indigenous Peoples who have stewarded this land since time immemorial. OE, which is often, but not always, digital, seems at first to be at odds with the traditional principles of learning practiced by Indigenous Peoples. Two examples of this, according to Tessaro et al. [\(2018\)](@tessaroFiveIndigenizingOnline2018) are that Indigenous Education is heavily dependent upon being situated in a specific community context at a specific time, conversely, open education is designed to transcend place and time and be accessible to anyone regardless of their location. Also, Indigenous Education should be carried out in a context where teachers are very attuned to their students personalities, histories, needs, and goals, but open educators may never meet or even speak to any given student, so there is little chance that they will be able to understand the contexts of their students.
 
-The following table outlines some of the major points of conflict between Indigenous education and online education as described by Tessaro, et al. [\(2018\)](@tessaroFiveIndigenizingOnline2018) (Table 1). Note that they refer to *online* education, not *open* education, but the characteristics of online education they describe are also characteristic of modern open education, which relies heavily on online technologies. It is not true that online education and open education are the same thing, but a thorough discussion to the differences is beyond the scope of this paper.
+The following table outlines some of the major points of conflict between Indigenous education and online education as described by Tessaro, et al. [\(2018\)](@tessaroFiveIndigenizingOnline2018) (Table 1). Note that they refer to *online* education, not *open* education, but the characteristics of online education they describe are also characteristic of modern open education, which relies heavily on online technologies. It is not true that online education and open education are the same thing, but a thorough discussion of the differences is beyond the scope of this paper.
 
 | Indigenous education | Online Education |
 | :--- | ---:|
@@ -53,21 +53,18 @@ _Table 1. Points of conflict between Indigenous and Open Education_
 
 With such apparent contradictions in approaches to learning environments, it seems that open educators, despite their commitment to social justice, may have a very difficult time respectfully engaging with Indigenous Peoples in digital environments. A closer look, however, may tell a different story.
 
-### Defining Terms
-
-Before proceeding with a closer analysis, it is important to clarify what is meant by the language used in this paper.
 
 ##### Open education
 
-Educators who have surveyed the literature on the history of open education have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004; Hendricks, 2017; Morgan, 2016) and, more specifically, three pairs of complementary values: "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005). Morgan (2016) notes that these aims towards autonomy and freedom persist in the open education literature today.
+Open education is typically understood as being a set of beliefs, values, practices, and resources that, when enacted, increase access to educational environments for the benefit of marginalized or under-represented students. Educators who have surveyed the literature on the history of open education have found that early conceptions of open education were primarily focused on creating student-centred learning environments in K-12 (Cuban, 2004; Hendricks, 2017; Morgan, 2016) and, more specifically, three pairs of complementary values: "autonomy and interdependence; freedom and responsibility; democracy and participation" (Paquette, 2005). Morgan (2016) notes that these aims towards autonomy and freedom persist in the open education literature today.
 
-This paper will begin by describing open education through three lenses: permissions, pedagogy, and participation.
+This paper will begin by briefly describing open education through three lenses: permissions, pedagogy, and participation.
 
 ###### Permissions
 
-The dominant discourse in OE literature between approximately 2002 and 2017 has focussed on the benefits of openness that can be realized through the creation and adoption of open educational resources (OER) [\(Lambert, 2018\)](@lambertChangingOurDis2018). OER are typically described as being educational resources such as books, articles, videos, lessons, courses, or other artifacts that are licensed to allow end users to participate in 5 activities related to the resource. Users are permitted and encouraged to revise, remix, reuse, retain, and redistribute the materials [\(Wiley, ND\)](@wileyDefiningOpenOpenND).
+The dominant discourse in OE literature between approximately 2002 and 2017 has focussed on the benefits of openness that can be realized through the creation and adoption of open educational resources (OER) [\(Lambert, 2018\)](@lambertChangingOurDis2018). OER are typically described as being educational resources such as books, articles, videos, lessons, courses, or other artifacts that are licensed to allow end users (teachers and students) to participate in 5 activities related to the resource. Users are permitted and encouraged to revise, remix, reuse, retain, and redistribute the materials [\(Wiley, ND\)](@wileyDefiningOpenOpenND).
 
-Lambert [\(2018|)](@lambertChangingOurDis2018) describes this phase of the OE movement as being overly focussed on an aspirational narrative convinced *a priori* that 'openness' and 'access' are necessarily good. She challenges the assumption that simply providing free resources for all students will benefit all students.
+Lambert [\(2018|)](@lambertChangingOurDis2018) describes this phase of the OE movement as being focussed on an aspirational narrative and that proponents were convinced *a priori* that 'openness' and 'access' are necessarily good. She challenges the assumption that simply providing free resources for all students will benefit all students.
 
 ###### Pedagogy
 
