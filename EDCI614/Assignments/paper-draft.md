@@ -48,8 +48,19 @@ Other researchers describe OE as "resources, tools and practices to improve educ
 
 More recently, researchers have published papers critical of the aspirational narrative around open education being focussed on issues of social justice for marginalized groups. If marginalized groups (such as Indigenous people living in remote communities in northern Canada) have more difficulty accessing stable broadband internet, then the digital environment of most OE programming, regardless of whether it is pedagogically innovative, will only benefit those who do have stable access to broadband internet and inequality will increase. This digital divide is suggested by the results of Rohs and Ganz's investigation of massive open online courses (MOOCs) [\(2015\)](@rohsMOOCsClaimEducation2015). They found that participation in two different MOOCs was weighted towards people who already had obtained some level of higher education suggesting that MOOC participants were more likely to not be from a marginalized group.
 
-Lambert's definition of OE with a SJ emphasis.
+Lambert's recent article concludes with a definition of OE which centres social justice. She writes that there are three distinct components to social justice: "redistributive justice, recognitive justice [and] representational justice" [\(Lambert, 2018, p. 227\)](@lambertChangingOurDis2018). Redistributive justice is the act of making resources more readily available to those populations who may have less, recognitive justice engenders greater respect for marginalized voices, and representational justice involves giving voice to those who have been excluded from discourse. Lambert uses the example of an open textbook freely provided to a marginalized group (redistributive justice), but if that textbook doesn't include examples or illustrations drawn from the marginalized culture, then it lacks recognitive justice, and if it is written by and from the perspective of the dominant group, then it lacks representational justice. She offers the following definition of socially just OE:
 
+> Open Education is the development of free digitally enabled learning materials and experiences primarily by and for the benefit and empowerment of non-privileged learners who may be under-represented in education systems or marginalised in their global context. Success of social justice aligned programs can be measured not by any particular technical feature or format, but instead by the extent to which they enact redistributive justice, recognitive justice and/or representational justice. (p. 239)
+
+But what if this isn't enough? What if OE, with its reliance on digital technology is actually causing greater injustice by excluding the voices of Indigenous people in Canada? What if OE is just another form of white colonialism and the extermination of Indigeneity? These questions can begin to be resolved by paying attention to Lambert's deliberate phrase "primarily *by* and *for* ... non-privileged learners" (p. 239, emphasis added).
+
+### Two-eyed seeing
+
+If OE is to be "by and for" Indigenous Canadians, then OE practitioners must take the time to listen and to learn to see with two eyes. "Two-eyed seeing" is a term coined by Mi'kmaq Elder Albert Marshall to describe the integration of Indigenous and "western" ways of knowing [\(Marshall, 2017\)](@marshallTwoEyedSeeingElder2017). Two-eyed seeing is the English version of the Mi'kmaq word *Etuaptmumk*. Elder Marshall describes two-eyed seeing as:
+
+> learn to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing ... and learn to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing ... but most importantly, learn to see with both these eyes together, for the benefit of all (para. 2).
+
+It is not taking bits and pieces from one or the other way of knowing, but weaving together knowledge from both systems and a journey of co-learning that occurs between Indigenous and non-Indigenous learners [\(Bartlett, Marshall, & Marshall, 2012\)](@bartlettTwoEyedSeeingOther2012).
 
 
 ##### Indigenization
