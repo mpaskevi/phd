@@ -72,20 +72,48 @@ According to Antoine, Mason, Mason, Palahicky, and Rodriguez de France [\(2018\)
 
 There is not one single way of approaching Indigenous Education simply because there are hundreds of different First Nations in Canada alone. However, Antoine et al. (2018) identify four characteristics of Indigenous pedagogies that seem to be common to many Indigenous societies. Indigenous education is *personal and holistic* because it aims to develop the whole person, including emotional, cognitive, physical, and spiritual aspects. It also emphasizes *experiential* learning, or learning by doing and being mentored by older, more experienced members of the community. It is *place-based* because it is tied to a specific place and community in a specific geographical location and environment. Finally, it is *intergenerational* in that Indigenous Elders have a responsibility to pass down knowledge and wisdom to younger generations.
 
+### Five R's
+Tessaro et al. (2018) described an online course designed for Principals of First Nations schools. The course needed to be online in order to engage learners in remote areas where opportunities for professional development are scarce, but there was concern that there might be a conflict between the characteristics of online learning and the needs of Indigenous learners. To mitigate this risk, the course was designed to align with the five R's of Indigenous Education: respect, reciprocity, relevance, responsibility, and relationships.
+
+#### Respect
+
+It is critical for Indigenous learning environments to be respectful of Indigenous values, specifically the lack of hierarchy in Indigenous cultures where every person is equal to every other person. This can clearly be a problem as modern Canadian universities are very hierarchical and bureaucratic, leading Indigenous learners feeling alienated.
+
+#### Reciprocity
+
+For decades, Indigenous communities have been the objects of Western greed, research, and experimentation with researchers seeking only to answer an academic question. This extractive exploitation of Indigenous knowledge is deeply problematic. It is essential for both research and reconciliatory educational programs to be mutually beneficial with the community receiving tangible and durable benefits.
+
+#### Relevance
+
+Indigenous learning environments must be relevant to the learners, meaning that the learning experiences must go beyond studying texts. There must be allowance for learners to engage with their own community needs and also to experience a sense of a learning community within the course.
+
+#### Responsibility
+
+With the deeply inter-related nature of Indigenous communities, it is important for there to be a clear sense of responsibility for each individual to uphold the cultural norms of the community. This includes responsibilities within the course, but also responsibilities to the community and family.
+
+#### Relationships
+
+Relationships are the foundation of Indigenous education. The other 4 R's depend on the existence and maintenance of healthy relationships within the course and also external to the course.
+
+
 ### Conflicting Educational Worldviews?
 
 It seems extremely unlikely there are any OE practitioners who would have any problem with the goal of OE to bring about a more just Canadian society by promoting reconciliation, nor would many think that the Indigenous pedagogies above are in any way foreign to how they wish to conduct their own courses. It seems much more likely, however, that Indigenous educators and learners might be reticent to trust settler society to honour and respect Indigenous ways of knowing and learning, even if it is in a well-intentioned effort to help.
 
 This reticence would be rooted deeply in the psyche of Indigenous learners due to the generational impact of the horrors of the attempted cultural genocide perpetrated by church, government, and settler society. To make matters worse, the fact that OE is so closely tied to online technologies and the fact that many Indigenous communities in Canada are very remote means that the technological platform used must be in alignment with the principles of Indigenous education. Unfortunately, the modern Internet is built on principles that defy the principles of Indigenous education.
 
-|5Rs|Indigenous Education|Internet|Socially Just OE|
-|:---|:---|:---|:---|
-|Respect   |   |   |   |
-|Reciprocity   |   |   |   |
-|Relevance   |   |   |   |
-|Responsibility   |   |   |   |
-|Relationships   |   |   |   |
+However, despite the apparent conflict between Indigenous values and the values and characteristics of online education, Tessaro et al. learned that by attending to the five R's, they were able to create a learning environment for Indigenous school Principals that was surprisingly positive. They found that the challenges presented by the online environment actually turned out to be strengths.
 
+
+|5Rs|Indigenous Education*|Corporate Internet & Social Media|Socially Just OE|
+|:---|:---|:---|:---|
+|Respect   |- incorporating local values; - connecting students with their community; - adjusting course requirements based on student needs; - teachers and students as co-learners  | - homogeneous; - ignorant or dismissive of local values; - templated existence |   |
+|Reciprocity   | - actively listen to student voices; - accommodate needs and goals of students; - giving back to the community; - two-way transfer of knowledge; - video conferencing; - final projects for the benefit of the community  | - fundamentally extractive (data) and one-way; - independence and individuality  |- renewable assignments   |
+|Relevance   | - community and oral communication; - activities connected to local community and land; - heavy use of video conferencing  | - disconnected from 'real-life' and the land; - community is a virtual construct   | - choice of platform increases student agency   |
+|Responsibility   | - mutual responsibilities to uphold community values  | - anonymity leads to disappearance of responsibility and accountability    |   |
+|Relationships   | - foundational to learning environment  | - relationship-building is required to enrich databases   |   |
+
+\* Course activities and characteristics as described by Tessaro et al. (2018).
 
 - Aboriginal Ways of Knowing and Being
 - 5 Rs
