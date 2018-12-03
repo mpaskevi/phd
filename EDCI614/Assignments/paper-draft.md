@@ -112,24 +112,6 @@ However, despite the apparent conflict between Indigenous values and the values 
 |Relevance   | - community and oral communication; - activities connected to local community and land; - heavy use of video conferencing  | - disconnected from 'real-life' and the land; - community is a virtual construct   | - choice of platform increases student agency   |
 |Responsibility   | - mutual responsibilities to uphold community values  | - anonymity leads to disappearance of responsibility and accountability    |   |
 |Relationships   | - foundational to learning environment  | - relationship-building is required to enrich databases   |   |
+|   |   |   |   |
 
 \* Course activities and characteristics as described by Tessaro et al. (2018).
-
-- Aboriginal Ways of Knowing and Being
-- 5 Rs
-  - respect
-  - reciprocity
-  - relevance
-  - responsibility
-  - relationships
-- digital divide
-
-
-
-### Open Education
-- social justice aspirations
-- access
-- participation
-- digitally mediated
-  - algorithmic
-  - extractive
