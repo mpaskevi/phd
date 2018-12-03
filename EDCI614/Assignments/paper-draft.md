@@ -62,33 +62,30 @@ If OE is to be "by and for" Indigenous Canadians, then OE practitioners must tak
 
 It is not taking bits and pieces from one or the other way of knowing, but weaving together knowledge from both systems and a journey of co-learning that occurs between Indigenous and non-Indigenous learners [\(Bartlett, Marshall, & Marshall, 2012\)](@bartlettTwoEyedSeeingOther2012).
 
+### Truth and Reconciliation
 
-##### Indigenization
-##### Decolonization
-##### Reconciliation
+The *Truth and Reconciliation Commission of Canada* has called open educators to action, generally in the sense that all Canadians are called to reconciliation, but also specifically in calls to close achievement gaps, improve educational attainment levels, develop culturally appropriate curricula and provide sufficient funding to "end the backlog of First Nations students seeking a post-secondary education" [\(Truth and Reconciliation Commission of Canada, 2015, p. 2\)](@TruthReconciliationCommission2015). There are a few ways to do this appropriately, and myriad ways to make the situation worse.
 
-## Competing models?
-
-### Open Education
-- social justice aspirations
-- access
-- participation
-- digitally mediated
-  - algorithmic
-  - extractive
-  -
+According to Antoine, Mason, Mason, Palahicky, and Rodriguez de France [\(2018\)](@antoinePullingTogetherGuide2018), there are three related processes with respect to addressing past evils and current systemic oppression: indigenization, decolonization, and reconciliation. Indigenization is another word for two-eyed seeing. It is the weaving or braiding of indigenous and western knowledge systems for the benefit of all students, teachers, and community members. Decolonization is the "process of deconstructing colonial ideologies of the superiority and privilege of Western thought and approaches" (p. 4). It involves correcting misconceptions and misrepresentations, and dismantling the status quo. It is a process that must be led by Indigenous People. Reconciliation is about addressing past wrongs, making amends, and improving relationships between Indigenous and non-Indigenous people. According to Chief Justice Murray Sinclair, Chair of the Truth and Reconciliation Commission of Canada, "Reconciliation is not an Aboriginal problem - it involves all of us" (p. 5).
 
 ### Indigenous Education
-- First Peoples' Principles of Learning
-  - Learning ultimately supports the well-being of the self, the family, the community, the land, the spirits, and the ancestors.
-  - Learning is holistic, reflexive, reflective, experiential, and relational (focused on connectedness, on reciprocal relationships, and a sense of place).
-  - Learning involves recognizing the consequences of one’s actions.
-  - Learning involves generational roles and responsibilities.
-  - Learning recognizes the role of indigenous knowledge.
-  - Learning is embedded in memory, history, and story.
-  - Learning involves patience and time.
-  - Learning requires exploration of one’s identity.
-  - Learning involves recognizing that some knowledge is sacred and only shared with permission and/or in certain situations.
+
+There is not one single way of approaching Indigenous Education simply because there are hundreds of different First Nations in Canada alone. However, Antoine et al. (2018) identify four characteristics of Indigenous pedagogies that seem to be common to many Indigenous societies. Indigenous education is *personal and holistic* because it aims to develop the whole person, including emotional, cognitive, physical, and spiritual aspects. It also emphasizes *experiential* learning, or learning by doing and being mentored by older, more experienced members of the community. It is *place-based* because it is tied to a specific place and community in a specific geographical location and environment. Finally, it is *intergenerational* in that Indigenous Elders have a responsibility to pass down knowledge and wisdom to younger generations.
+
+### Conflicting Educational Worldviews?
+
+It seems extremely unlikely there are any OE practitioners who would have any problem with the goal of OE to bring about a more just Canadian society by promoting reconciliation, nor would many think that the Indigenous pedagogies above are in any way foreign to how they wish to conduct their own courses. It seems much more likely, however, that Indigenous educators and learners might be reticent to trust settler society to honour and respect Indigenous ways of knowing and learning, even if it is in a well-intentioned effort to help.
+
+This reticence would be rooted deeply in the psyche of Indigenous learners due to the generational impact of the horrors of the attempted cultural genocide perpetrated by church, government, and settler society. To make matters worse, the fact that OE is so closely tied to online technologies and the fact that many Indigenous communities in Canada are very remote means that the technological platform used must be in alignment with the principles of Indigenous education. Unfortunately, the modern Internet is built on principles that defy the principles of Indigenous education.
+
+|5Rs|Indigenous Education|Internet|Socially Just OE|
+|:---|:---|:---|:---|
+|Respect   |   |   |   |
+|Reciprocity   |   |   |   |
+|Relevance   |   |   |   |
+|Responsibility   |   |   |   |
+|Relationships   |   |   |   |
+
 
 - Aboriginal Ways of Knowing and Being
 - 5 Rs
@@ -99,13 +96,12 @@ It is not taking bits and pieces from one or the other way of knowing, but weavi
   - relationships
 - digital divide
 
-## Framework for Reconciliation
-
-- cooperative learning and the 5Rs
 
 
-### Indigenization
-
-### Decolonization
-
-### Reconciliation
+### Open Education
+- social justice aspirations
+- access
+- participation
+- digitally mediated
+  - algorithmic
+  - extractive
