@@ -1,6 +1,6 @@
 ---
 title: 'Seeing Open Education with Two Eyes'
-published: true
+published: false
 date: '22:20 18-11-2018'
 hide_git_sync_repo_link: false
 hide_page_title: true
