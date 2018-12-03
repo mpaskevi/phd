@@ -1,6 +1,6 @@
 
 
-# Seeing Open Education with Two Eyes
+## Seeing Open Education with Two Eyes
 
 Open education (OE) has a relatively short history compared to other educational ideas, but it is a history rich with aspirations about democratizing education, increasing student voice, reducing barriers to formal learning opportunities, and promoting justice for marginalized groups and individuals [\(2002\)](@ForumImpactOpen2002). A citation analysis published by Weller, Jordan, DeVries, and Rolfe, (2018), showed some of the earliest roots of OE literature to be in both the 'open classroom' movement in the 1970s and in the distance education literature beginning in the 1980s. The open classroom movement originated in the UK following the Plowden report [\(Plowden, 1967\)](@plowdenChildrenTheirPrimary1967), which argued for a student-centred model of education with *open* referring to the physical space of a classroom and the design of learning activities. Distance education, while originating with analog technologies such as the postal service and radio, television, or satellite broadcasts pivoted to digital technologies with the advent of networked computer technologies. Both origins of OE reflect the aspirations of their advocates to broaden access to formal education.
 
