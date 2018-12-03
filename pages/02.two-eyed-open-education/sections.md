@@ -128,3 +128,5 @@ However, despite the apparent conflict between Indigenous values and the values 
 |   |   |   |   |
 
 \* Course activities and characteristics as described by Tessaro et al. (2018).
+
+[#bibliography]: #
