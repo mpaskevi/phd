@@ -1,4 +1,4 @@
-
+!!! add 4th p - platform. corporate vs open
 
 ### Seeing Open Education with Two Eyes
 
