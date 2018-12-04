@@ -13,8 +13,8 @@ content:
         dir: asc
 ---
 
-!!! add 4th p - platform. corporate vs open
-!!! conclusion of paper lands on IE and SJOE being parallel in honouring personhood
+- [ ] add 4th p - platform. corporate vs open
+- [ ] conclusion of paper lands on IE and SJOE being parallel in honouring personhood
 
 ### Seeing Open Education with Two Eyes
 
