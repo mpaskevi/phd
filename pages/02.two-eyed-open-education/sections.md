@@ -131,18 +131,5 @@ Returning to table 1, it would seem the superficially apparent conflicts between
 
 > >True solidarity with the oppressed means fighting at their side to transform the objective reality which has made them these 'beings for another'. The oppressor is solidary with the oppressed only when he stops regarding the oppressed as an abstract category and sees them as persons who have been unjustly dealt with, deprived of their voice, cheated in the sale of their labour -- when he stops making pious, sentimental and individualistic gestures and risks an act of love, in its existentiality, in its praxis. To affirm that men and women are persons and as persons should be free, and yet do nothing tangible to make this affirmation a reality, is a farce. (2018, p. 54)
 
-Educational environments which centre on the fundamental personhood of students and empower them to work toward their own humanization
-
-
-|5Rs|Indigenous education*|Corporate Internet & Social Media|Socially Just OE|
-|:---|:---|:---|:---|
-|Respect   |- incorporating local values; - connecting students with their community; - adjusting course requirements based on student needs; - teachers and students as co-learners  | - homogeneous; - ignorant or dismissive of local values; - templated existence |   |
-|Reciprocity   | - actively listen to student voices; - accommodate needs and goals of students; - giving back to the community; - two-way transfer of knowledge; - video conferencing; - final projects for the benefit of the community  | - fundamentally extractive (data) and one-way; - independence and individuality  |- renewable assignments   |
-|Relevance   | - community and oral communication; - activities connected to local community and land; - heavy use of video conferencing  | - disconnected from 'real-life' and the land; - community is a virtual construct   | - choice of platform increases student agency   |
-|Responsibility   | - mutual responsibilities to uphold community values  | - anonymity leads to disappearance of responsibility and accountability    |   |
-|Relationships   | - foundational to learning environment  | - relationship-building is required to enrich databases   |   |
-|   |   |   |   |
-
-\* Course activities and characteristics as described by Tessaro et al. (2018).
 
 [#bibliography]: #
