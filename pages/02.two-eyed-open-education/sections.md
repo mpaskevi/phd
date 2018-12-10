@@ -81,7 +81,7 @@ Fortunately, there are other platforms which are more hospitable to both Indigen
 
 If OE is to be "by and for" Indigenous Canadians, then OE practitioners must take the time to listen and to learn to see with two eyes. "Two-eyed seeing" is a term coined by Mi'kmaq Elder Albert Marshall to describe the integration of Indigenous and "western" ways of knowing [\(Marshall, 2017\)](@marshallTwoEyedSeeingElder2017). Two-eyed seeing is the English version of the Mi'kmaq word *Etuaptmumk*. Elder Marshall describes two-eyed seeing as:
 
-> learn to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing ... and learn to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing ... but most importantly, learn to see with both these eyes together, for the benefit of all (para. 2).
+> learn[ing] to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing ... and learn[ing] to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing ... but most importantly, learn[ing] to see with both these eyes together, for the benefit of all (para. 2).
 
 It is not taking bits and pieces from one or the other way of knowing, but weaving together knowledge from both systems and a journey of co-learning that occurs between Indigenous and non-Indigenous learners [\(Bartlett, Marshall, & Marshall, 2012\)](@bartlettTwoEyedSeeingOther2012).
 
