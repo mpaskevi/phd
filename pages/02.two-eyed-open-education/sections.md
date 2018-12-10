@@ -53,7 +53,7 @@ Lambert [\(2018|)](@lambertChangingOurDis2018) describes this phase of the OE mo
 
 A second lens in the discourse could be called "pedagogy," "open pedagogy," or "open educational practices." The writers of the *Cape Town Open Education Declaration* wrote:
 
-> However, open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning. Understanding and embracing innovations like these is critical to the long term vision of this movement. [\(2007, para. 4\)](@CapeTownOpen)
+> open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning. Understanding and embracing innovations like these is critical to the long term vision of this movement. [\(2007, para. 4\)](@CapeTownOpen)
 
 This vision of pedagogical innovation is seen in Wiley and Hilton's [\(2018\)](@wileyDefiningOEREnabledPedagogy2018) description of "OER-enabled pedagogy" as "the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER". Similarly, Paskevicius described OEP as:
 
