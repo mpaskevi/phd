@@ -1,10 +1,7 @@
 
 
-# Indigenous and Open Education: A Contradiction?
+### Indigenous and Open Education: A Contradiction?
 
-#### Colin Madland
-
-#### EDCI 614
 
 Open education (OE) has a relatively short history compared to other educational constructs, but it is a history rich with aspirations about democratizing education, increasing student voice, reducing barriers to formal learning opportunities, and promoting justice for marginalized groups and individuals (UNESCO, 2002). A citation analysis published by Weller, Jordan, DeVries, and Rolfe (2018) showed some of the earliest roots of OE literature to be in both the "open classroom" movement in the 1970s and in the distance education literature beginning in the 1980s. The open classroom movement originated in the UK following the Plowden report (Plowden, 1967), which argued for a student-centred model of education with _open_ referring to the physical space of a classroom and the design of learning activities. Distance education, while originating with analog technologies such as the postal service and radio, television, or satellite broadcasts pivoted to digital technologies with the advent of networked computer technologies. Both origins of OE reflect the aspirations of their advocates to broaden access to formal education.
 
@@ -12,11 +9,7 @@ A challenge to modern open educators is reconciling the continuing emphasis on e
 
 The following table outlines some of the major points of conflict between Indigenous education and online education as described by Tessaro, et al. (2018) (Table 1). Note that they refer to _online_ education, not _open_ education, but the characteristics of online education they describe are also characteristic of modern open education, which relies heavily on online networked technologies. It is not true that online education and open education are the same thing, but a thorough discussion of the differences is beyond the scope of this paper.
 
-|
-# Indigenous education
- |
-# Online Education
- |
+| Indigenous education| Online Education|
 | --- | --- |
 | situated in a specific community | accessible across multiple communities |
 | highly contextual | very low context |
@@ -44,11 +37,11 @@ Lambert (2018) describes this phase of the OE movement as being focussed on an a
 
 A second lens in the discourse could be called _pedagogy_, _open pedagogy_, _or open educational practices_. The writers of the _Cape Town Open Education Declaration_ wrote:
 
-open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning. Understanding and embracing innovations like these is critical to the long term vision of this movement. ("The Cape Town Open Education Declaration," 2007 para. 4)
+> open education is not limited to just open educational resources. It also draws upon open technologies that facilitate collaborative, flexible learning and the open sharing of teaching practices that empower educators to benefit from the best ideas of their colleagues. It may also grow to include new approaches to assessment, accreditation and collaborative learning. Understanding and embracing innovations like these is critical to the long term vision of this movement. ("The Cape Town Open Education Declaration," 2007 para. 4)
 
 This vision of pedagogical innovation is seen in Wiley and Hilton's  description of "OER-enabled pedagogy" as "the set of teaching and learning practices that are only possible or practical in the context of the 5R permissions which are characteristic of OER" (2018, p. 135). Similarly, Paskevicius described OEP as:
 
-Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences, facilitate open peer-review, and support participatory student-directed projects. (2017, p. 127)
+> Teaching and learning practices where openness is enacted within all aspects of instructional practice; including the design of learning outcomes, the selection of teaching resources, and the planning of activities and assessment. OEP engage both faculty and students with the use and creation of OER, draw attention to the potential afforded by open licences, facilitate open peer-review, and support participatory student-directed projects. (2017, p. 127)
 
 Other researchers describe OE as "resources, tools and practices to improve educational access, effectiveness, and equality worldwide" (Cronin & MacLaren, 2018, p. 127). It is notable that Cronin and MacLaren's definition does not specifically mention the use of open licenses or OER while Paskevicius' definition is specific about the use and creation of OER coupled with innovative pedagogies that are enabled by open licenses.
 
@@ -58,7 +51,7 @@ More recently, researchers have published papers critical of the aspirational na
 
 Lambert's recent article concludes with a definition of OE which centres social justice. She writes that there are three distinct components to social justice: "redistributive justice, recognitive justice [and] representational justice" [(Lambert, 2018, p. 227)](./../../Users/colin.madland/Documents/GitHub/phd/pages/02.two-eyed-open-education/@lambertChangingOurDis2018). Redistributive justice is the act of making resources more readily available to those populations who may have less, recognitive justice engenders greater respect for marginalized voices, and representational justice involves giving voice to those who have been excluded from discourse. Lambert uses the example of an open textbook freely provided to a marginalized group (redistributive justice), but if that textbook does not include examples or illustrations drawn from the marginalized culture, then it lacks recognitive justice, and if it is written by and from the perspective of the dominant group, then it lacks representational justice. She offers the following definition of socially just OE:
 
-Open Education is the development of free digitally enabled learning materials and experiences primarily by and for the benefit and empowerment of non-privileged learners who may be under-represented in education systems or marginalised in their global context. Success of social justice aligned programs can be measured not by any particular technical feature or format, but instead by the extent to which they enact redistributive justice, recognitive justice and/or representational justice. (2018, p. 239)
+> Open Education is the development of free digitally enabled learning materials and experiences primarily by and for the benefit and empowerment of non-privileged learners who may be under-represented in education systems or marginalised in their global context. Success of social justice aligned programs can be measured not by any particular technical feature or format, but instead by the extent to which they enact redistributive justice, recognitive justice and/or representational justice. (2018, p. 239)
 
 However, what if this is not enough? What if OE, with its reliance on digital technology is actually causing greater injustice by excluding the voices of Indigenous people in Canada? What if OE is just another form of white colonialism and the extermination of Indigeneity? These questions can begin to be resolved by paying attention to Lambert's deliberate phrase "primarily _by_ and _for_ … non-privileged learners". (2018, p. 239, emphasis added)
 
@@ -72,7 +65,7 @@ Fortunately, there are other platforms which are more hospitable to both Indigen
 
 If OE is to be _by and for_ Indigenous Canadians, then OE practitioners must take the time to listen and to learn to see with two eyes. "Two-eyed seeing" is a term coined by Mi'kmaq Elder Albert Marshall to describe the integration of Indigenous and "western" ways of knowing (Marshall, 2017). Two-eyed seeing is the English version of the Mi'kmaq word _Etuaptmumk_. Elder Marshall describes two-eyed seeing as:
 
-learn[ing] to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing … and learn[ing] to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing … but most importantly, learn[ing] to see with both these eyes together, for the benefit of all (2017, para. 2).
+> learn[ing] to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing … and learn[ing] to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing … but most importantly, learn[ing] to see with both these eyes together, for the benefit of all (2017, para. 2).
 
 It is not taking bits and pieces from one or the other way of knowing, but weaving together knowledge from both systems and a journey of co-learning that occurs between Indigenous and non-Indigenous learners (Bartlett, Marshall, & Marshall, 2012).
 
