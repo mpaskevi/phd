@@ -13,25 +13,6 @@ Understanding whether or not open and networked technologies are suitable for pr
 
 Indigenous education is understood from the perspective of the 5R's of Indigenous education: respect, reciprocity, relevance, responsibility, and relationships as described in Tessaro, et al. (2018).
 
-#### Respect.
-
-It is critical for Indigenous learning environments to be respectful of Indigenous values, specifically the lack of hierarchy in Indigenous cultures where every person is equal to every other person. This can clearly be a problem as modern Canadian universities are very hierarchical and bureaucratic, leading Indigenous learners feeling alienated.
-
-#### Reciprocity.
-
-For decades, Indigenous communities have been the objects of Western greed, research, and experimentation with researchers seeking only to answer an academic question. This extractive exploitation of Indigenous knowledge is deeply problematic. It is essential for both research and reconciliatory educational programs to be mutually beneficial with the community receiving tangible and durable benefits.
-
-#### Relevance.
-
-Indigenous learning environments must be relevant to the learners, meaning that the learning experiences must go beyond studying texts. There must be allowance for learners to engage with their own community needs and also to experience a sense of a learning community within the course.
-
-#### Responsibility.
-
-With the deeply interrelated nature of Indigenous communities, it is important for there to be a clear sense of responsibility for each individual to uphold the cultural norms of the community. This includes responsibilities within the course, but also responsibilities to the community and family.
-
-#### Relationships.
-
-Relationships are the foundation of Indigenous education. The other 4 R's depend on the existence and maintenance of healthy relationships within the course and also external to the course.
 
 - Relevant literature;
 - Research design;
