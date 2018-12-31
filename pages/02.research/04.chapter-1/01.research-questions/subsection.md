@@ -20,6 +20,8 @@ Super Tentative, first draft.
   - indigenous communities already a small voice; how do we amplify indigenous voices? should we amplify indigenous voices?
 - aspirational narrative in Canada that open education is bent towards social justice
   - do we have evidence that this is actually happening?
+- Backlog of Indigenous students who need access to higher education as per TRC
+- Geographical and technological isolation prevents some Indigenous students from travelling to a central campus for f2f coursework.
 
 ### Purpose
 
@@ -30,6 +32,9 @@ Super Tentative, first draft.
 
 - What role do non-Indigenous open educators have in responding to the TRC Calls to Action?
 - do OEP increase access to higher education for Indigenous learners
+- which multi-access learning models are preferred by remote students?
+  - micro-campus (f2f logistics + centralized curriculum)
+  -
 
 #### Thoughts
 
@@ -38,4 +43,9 @@ Super Tentative, first draft.
 - veletsianos on faculty in the open
 - what ways can people who choose not to, or should not, be open on the internet, participate in the 'affordances' of open education?
   - giving back to community (reciprocity)
-  -
+- Open as:
+  - participation
+  - pedagogy
+  - permission
+  - platform
+  - policy
