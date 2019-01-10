@@ -34,7 +34,10 @@ Super Tentative, first draft.
 - do OEP increase access to higher education for Indigenous learners
 - which multi-access learning models are preferred by remote students?
   - micro-campus (f2f logistics + centralized curriculum)
-  -
+  - tier 1 - f2f, on campus, paced
+  - tier 2 - synchronous, remote, paced
+  - tier 3 - asynchronous, remote, paced
+  - tier 4 - open , asynchronous, remote, self-paced
 
 #### Thoughts
 
