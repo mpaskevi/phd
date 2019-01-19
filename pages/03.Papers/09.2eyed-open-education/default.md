@@ -32,7 +32,7 @@ The following table outlines some of the major points of conflict between Indige
 | personal | impersonal |
 | orally transmitted | text-based (implied in original) |
 
-_Table 1. Points of conflict between Indigenous and Open Education_ _(Tessaro et al., 2018)__.
+_Table 1. Points of conflict between Indigenous and Open Education_ _(Tessaro et al., 2018)_.
 
 With such apparent contradictions in approaches to learning environments, it seems that open educators, despite their commitment to social justice, may have a very difficult time respectfully engaging with Indigenous Peoples in digital environments. A closer look, however, may tell a different story. This paper will argue that the principles of Indigenous education are actually closely aligned with the principles of networked open education, but that this alignment may be undermined by the use of some commercial digitally networked tools.
 
