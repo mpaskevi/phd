@@ -1,5 +1,5 @@
 ---
-title: 'Open Education'
+title: 'Indigenous Education'
 published: true
 date: '09:09 19-11-2018'
 hide_git_sync_repo_link: false
