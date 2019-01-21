@@ -80,7 +80,7 @@ Fortunately, there are other platforms which are more hospitable to both Indigen
 
 If OE is to be _by and for_ Indigenous Canadians, then OE practitioners must take the time to listen and to learn to see with two eyes. "Two-eyed seeing" is a term coined by Mi'kmaq Elder Albert Marshall to describe the integration of Indigenous and "western" ways of knowing (Marshall, 2017). Two-eyed seeing is the English version of the Mi'kmaq word _Etuaptmumk_. Elder Marshall describes two-eyed seeing as:
 
-learn[ing] to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing … and learn[ing] to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing … but most importantly, learn[ing] to see with both these eyes together, for the benefit of all (2017, para. 2).
+>learn[ing] to see from your one eye with the best or the strengths in the Indigenous knowledges and ways of knowing … and learn[ing] to see from your other eye with the best or the strengths in the mainstream (Western or Eurocentric) knowledges and ways of knowing … but most importantly, learn[ing] to see with both these eyes together, for the benefit of all (2017, para. 2).
 
 It is not taking bits and pieces from one or the other way of knowing, but weaving together knowledge from both systems and a journey of co-learning that occurs between Indigenous and non-Indigenous learners (Bartlett, Marshall, & Marshall, 2012).
 
@@ -100,7 +100,7 @@ Tessaro et al. (2018) described an online course designed for Principals of Firs
 
 #### Respect.
 
-It is critical for Indigenous learning environments to be respectful of Indigenous values, specifically the lack of hierarchy in Indigenous cultures where every person is equal to every other person. This can clearly be a problem as modern Canadian universities are very hierarchical and bureaucratic, leading Indigenous learners feeling alienated.
+It is critical for Indigenous learning environments to be respectful of Indigenous values, specifically the lack of hierarchy in Indigenous cultures where every person is equal to every other person. This can clearly be a problem as modern Canadian universities are very hierarchical and bureaucratic, leading Indigenous learners to feel alienated.
 
 #### Reciprocity.
 
