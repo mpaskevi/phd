@@ -1,5 +1,6 @@
 ---
 title: 'Crafting a Question'
+media_order: LwDciAbtRGin6gOzM0q7pw.jpg
 date: '21:55 22-01-2019'
 hide_git_sync_repo_link: false
 hide_hypothesis: false
