@@ -1,6 +1,6 @@
 ---
 title: 'Crafting a Question'
-media_order: LwDciAbtRGin6gOzM0q7pw.jpg
+media_order: sunny-ocean.jpg
 date: '21:55 22-01-2019'
 taxonomy:
     tag:
