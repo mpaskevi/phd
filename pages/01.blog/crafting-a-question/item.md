@@ -2,8 +2,14 @@
 title: 'Crafting a Question'
 media_order: LwDciAbtRGin6gOzM0q7pw.jpg
 date: '21:55 22-01-2019'
+taxonomy:
+    tag:
+        - edci681
+        - questions
 hide_git_sync_repo_link: false
 hide_hypothesis: false
+hero_classes: 'text-light overlay-dark-gradient hero-large'
+hero_image: sunny-ocean.jpg
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
