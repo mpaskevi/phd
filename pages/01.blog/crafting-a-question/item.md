@@ -10,7 +10,7 @@ show_pagination: true
 hide_from_post_list: false
 ---
 
-Your page summary goes here.
+I'm a few weeks into my second course in my program, this one being Advanced Research Methods. the topic du jour this last week was about crafting research questions. Here are some exercises we've gone through this week.
 
 ===
 
