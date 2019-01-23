@@ -19,7 +19,7 @@ hide_from_post_list: false
 
 I'm a few weeks into my second course in my program, this one being Advanced Research Methods. the topic du jour this last week was about crafting research questions. Here are some exercises we've gone through this week.
 
-===
+
 
 ##### Using only one-or two-word responses, write down the answers to the following questions:
 - What is your topic?
