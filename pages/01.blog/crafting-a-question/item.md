@@ -14,6 +14,8 @@ blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
+summary:
+    enabled: '0'
 hide_from_post_list: false
 ---
 
